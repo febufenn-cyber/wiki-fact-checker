@@ -3,15 +3,70 @@
   "article_slug": "apollo_11",
   "sampling_strategy": "annual_last_revision",
   "years_covered": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
     2022,
     2023,
     2024,
     2025,
     2026
   ],
-  "total_revisions": 5,
-  "fetched_at": "2026-03-01T17:50:51.848397+00:00",
+  "total_revisions": 10,
+  "fetched_at": "2026-03-01T20:57:10.946727+00:00",
   "revisions": [
+    {
+      "revid": 817939493,
+      "year": 2017,
+      "timestamp": "2017-12-31T13:14:23Z",
+      "user": "Canterbury Tail",
+      "comment": "rv already linked",
+      "size_bytes": 95093,
+      "content_file": "817939493_content.json",
+      "n_sections": 20
+    },
+    {
+      "revid": 876068226,
+      "year": 2018,
+      "timestamp": "2018-12-30T23:44:20Z",
+      "user": "Hawkeye7",
+      "comment": "/* Columbia in lunar orbit */ Contingencies",
+      "size_bytes": 121269,
+      "content_file": "876068226_content.json",
+      "n_sections": 29
+    },
+    {
+      "revid": 932848409,
+      "year": 2019,
+      "timestamp": "2019-12-28T15:25:18Z",
+      "user": "Randy Kryn",
+      "comment": "add descriptor to changed caption",
+      "size_bytes": 151366,
+      "content_file": "932848409_content.json",
+      "n_sections": 34
+    },
+    {
+      "revid": 995552174,
+      "year": 2020,
+      "timestamp": "2020-12-21T17:48:25Z",
+      "user": "Monkbot",
+      "comment": "[[User:Monkbot/task 18|Task 18 (cosmetic)]]: eval 181 templates: hyphenate params (96×); del |ref=harv (33×);",
+      "size_bytes": 154350,
+      "content_file": "995552174_content.json",
+      "n_sections": 34
+    },
+    {
+      "revid": 1061345314,
+      "year": 2021,
+      "timestamp": "2021-12-21T04:23:43Z",
+      "user": "Citation bot",
+      "comment": "Add: magazine, newspaper, bibcode. Removed parameters. Some additions/deletions were parameter name changes. | [[WP:UCB|",
+      "size_bytes": 183512,
+      "content_file": "1061345314_content.json",
+      "n_sections": 35
+    },
     {
       "revid": 1130551454,
       "year": 2022,

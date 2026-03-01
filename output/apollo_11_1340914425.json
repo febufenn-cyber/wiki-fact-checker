@@ -16,7 +16,7 @@
     "source_position": 0,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.423621+00:00",
+    "extracted_at": "2026-03-01T20:57:09.940132+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -38,7 +38,7 @@
     "source_position": 1,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.423775+00:00",
+    "extracted_at": "2026-03-01T20:57:09.940286+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -60,7 +60,7 @@
     "source_position": 2,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.423902+00:00",
+    "extracted_at": "2026-03-01T20:57:09.940411+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -82,7 +82,7 @@
     "source_position": 3,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.424006+00:00",
+    "extracted_at": "2026-03-01T20:57:09.940515+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -104,7 +104,7 @@
     "source_position": 4,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.424148+00:00",
+    "extracted_at": "2026-03-01T20:57:09.940656+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -126,7 +126,7 @@
     "source_position": 5,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.424274+00:00",
+    "extracted_at": "2026-03-01T20:57:09.940776+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -148,7 +148,7 @@
     "source_position": 6,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.424407+00:00",
+    "extracted_at": "2026-03-01T20:57:09.940908+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -170,7 +170,7 @@
     "source_position": 7,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.424549+00:00",
+    "extracted_at": "2026-03-01T20:57:09.941047+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -192,7 +192,7 @@
     "source_position": 8,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.424626+00:00",
+    "extracted_at": "2026-03-01T20:57:09.941125+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -214,7 +214,7 @@
     "source_position": 9,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.424727+00:00",
+    "extracted_at": "2026-03-01T20:57:09.941226+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -236,7 +236,7 @@
     "source_position": 10,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.538354+00:00",
+    "extracted_at": "2026-03-01T20:57:10.053532+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -258,7 +258,7 @@
     "source_position": 11,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.538508+00:00",
+    "extracted_at": "2026-03-01T20:57:10.053686+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -280,7 +280,7 @@
     "source_position": 12,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.538690+00:00",
+    "extracted_at": "2026-03-01T20:57:10.053866+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -302,7 +302,7 @@
     "source_position": 13,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.538843+00:00",
+    "extracted_at": "2026-03-01T20:57:10.054015+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -324,7 +324,7 @@
     "source_position": 14,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.538973+00:00",
+    "extracted_at": "2026-03-01T20:57:10.054142+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -346,7 +346,7 @@
     "source_position": 15,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.539122+00:00",
+    "extracted_at": "2026-03-01T20:57:10.054287+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -368,7 +368,7 @@
     "source_position": 16,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.539264+00:00",
+    "extracted_at": "2026-03-01T20:57:10.054427+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -390,7 +390,7 @@
     "source_position": 17,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.539419+00:00",
+    "extracted_at": "2026-03-01T20:57:10.054579+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -412,7 +412,7 @@
     "source_position": 18,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.539570+00:00",
+    "extracted_at": "2026-03-01T20:57:10.054724+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -434,7 +434,7 @@
     "source_position": 19,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.539739+00:00",
+    "extracted_at": "2026-03-01T20:57:10.054882+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -456,7 +456,7 @@
     "source_position": 20,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.539869+00:00",
+    "extracted_at": "2026-03-01T20:57:10.055007+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -478,7 +478,7 @@
     "source_position": 21,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.540029+00:00",
+    "extracted_at": "2026-03-01T20:57:10.055160+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -500,7 +500,7 @@
     "source_position": 22,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.540187+00:00",
+    "extracted_at": "2026-03-01T20:57:10.055302+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -522,7 +522,7 @@
     "source_position": 23,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.540328+00:00",
+    "extracted_at": "2026-03-01T20:57:10.055440+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -544,7 +544,7 @@
     "source_position": 24,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.540482+00:00",
+    "extracted_at": "2026-03-01T20:57:10.055590+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -566,7 +566,7 @@
     "source_position": 25,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.540611+00:00",
+    "extracted_at": "2026-03-01T20:57:10.055716+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -588,7 +588,7 @@
     "source_position": 26,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.540780+00:00",
+    "extracted_at": "2026-03-01T20:57:10.055882+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -610,7 +610,7 @@
     "source_position": 27,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.540911+00:00",
+    "extracted_at": "2026-03-01T20:57:10.056011+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -632,7 +632,7 @@
     "source_position": 28,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.541062+00:00",
+    "extracted_at": "2026-03-01T20:57:10.056160+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -654,7 +654,7 @@
     "source_position": 29,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.541217+00:00",
+    "extracted_at": "2026-03-01T20:57:10.056307+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -676,7 +676,7 @@
     "source_position": 30,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.541342+00:00",
+    "extracted_at": "2026-03-01T20:57:10.056430+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -698,7 +698,7 @@
     "source_position": 31,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.541528+00:00",
+    "extracted_at": "2026-03-01T20:57:10.056606+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -720,7 +720,7 @@
     "source_position": 32,
     "extraction_confidence": 0.5,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.541736+00:00",
+    "extracted_at": "2026-03-01T20:57:10.056793+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -742,7 +742,7 @@
     "source_position": 33,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.541889+00:00",
+    "extracted_at": "2026-03-01T20:57:10.056943+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -764,7 +764,7 @@
     "source_position": 34,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.542065+00:00",
+    "extracted_at": "2026-03-01T20:57:10.057114+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -786,7 +786,7 @@
     "source_position": 35,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.542218+00:00",
+    "extracted_at": "2026-03-01T20:57:10.057259+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -808,7 +808,7 @@
     "source_position": 36,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.542360+00:00",
+    "extracted_at": "2026-03-01T20:57:10.057399+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -830,7 +830,7 @@
     "source_position": 37,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.542496+00:00",
+    "extracted_at": "2026-03-01T20:57:10.057528+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -852,7 +852,7 @@
     "source_position": 38,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.542677+00:00",
+    "extracted_at": "2026-03-01T20:57:10.057688+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -874,7 +874,7 @@
     "source_position": 39,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.542858+00:00",
+    "extracted_at": "2026-03-01T20:57:10.057863+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -896,7 +896,7 @@
     "source_position": 40,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.543001+00:00",
+    "extracted_at": "2026-03-01T20:57:10.058001+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -918,7 +918,7 @@
     "source_position": 41,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.543231+00:00",
+    "extracted_at": "2026-03-01T20:57:10.058217+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -940,7 +940,7 @@
     "source_position": 42,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.543403+00:00",
+    "extracted_at": "2026-03-01T20:57:10.058384+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -962,7 +962,7 @@
     "source_position": 43,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.543635+00:00",
+    "extracted_at": "2026-03-01T20:57:10.058570+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -984,7 +984,7 @@
     "source_position": 44,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.543766+00:00",
+    "extracted_at": "2026-03-01T20:57:10.058689+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1006,7 +1006,7 @@
     "source_position": 45,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.543939+00:00",
+    "extracted_at": "2026-03-01T20:57:10.058854+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:A11FJ-4-4]",
@@ -1031,7 +1031,7 @@
     "source_position": 46,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.587500+00:00",
+    "extracted_at": "2026-03-01T20:57:10.102252+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1053,7 +1053,7 @@
     "source_position": 47,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.587602+00:00",
+    "extracted_at": "2026-03-01T20:57:10.102359+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1075,7 +1075,7 @@
     "source_position": 48,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.587736+00:00",
+    "extracted_at": "2026-03-01T20:57:10.102491+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1097,7 +1097,7 @@
     "source_position": 49,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.587835+00:00",
+    "extracted_at": "2026-03-01T20:57:10.102592+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1119,7 +1119,7 @@
     "source_position": 50,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.587916+00:00",
+    "extracted_at": "2026-03-01T20:57:10.102665+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1141,7 +1141,7 @@
     "source_position": 51,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588023+00:00",
+    "extracted_at": "2026-03-01T20:57:10.102761+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1163,7 +1163,7 @@
     "source_position": 52,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588123+00:00",
+    "extracted_at": "2026-03-01T20:57:10.102852+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1185,7 +1185,7 @@
     "source_position": 53,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588229+00:00",
+    "extracted_at": "2026-03-01T20:57:10.102955+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1207,7 +1207,7 @@
     "source_position": 54,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588327+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103054+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1229,7 +1229,7 @@
     "source_position": 55,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588435+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103165+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1251,7 +1251,7 @@
     "source_position": 56,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588512+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103243+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1273,7 +1273,7 @@
     "source_position": 57,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588616+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103348+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1295,7 +1295,7 @@
     "source_position": 58,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588715+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103443+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1317,7 +1317,7 @@
     "source_position": 59,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588808+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103534+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -1339,7 +1339,7 @@
     "source_position": 60,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.588920+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103636+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1361,7 +1361,7 @@
     "source_position": 61,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.589009+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103715+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -1383,7 +1383,7 @@
     "source_position": 62,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.589143+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103834+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1405,7 +1405,7 @@
     "source_position": 63,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.589229+00:00",
+    "extracted_at": "2026-03-01T20:57:10.103916+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1427,7 +1427,7 @@
     "source_position": 64,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.589331+00:00",
+    "extracted_at": "2026-03-01T20:57:10.104018+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1449,7 +1449,7 @@
     "source_position": 65,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.610268+00:00",
+    "extracted_at": "2026-03-01T20:57:10.125357+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1471,7 +1471,7 @@
     "source_position": 66,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.610335+00:00",
+    "extracted_at": "2026-03-01T20:57:10.125423+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1493,7 +1493,7 @@
     "source_position": 67,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.610462+00:00",
+    "extracted_at": "2026-03-01T20:57:10.125540+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1515,7 +1515,7 @@
     "source_position": 68,
     "extraction_confidence": 0.5,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.610633+00:00",
+    "extracted_at": "2026-03-01T20:57:10.125662+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1537,7 +1537,7 @@
     "source_position": 69,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.610738+00:00",
+    "extracted_at": "2026-03-01T20:57:10.125741+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1559,7 +1559,7 @@
     "source_position": 70,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.610869+00:00",
+    "extracted_at": "2026-03-01T20:57:10.125842+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1581,7 +1581,7 @@
     "source_position": 71,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.610957+00:00",
+    "extracted_at": "2026-03-01T20:57:10.125914+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1603,7 +1603,7 @@
     "source_position": 72,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.624614+00:00",
+    "extracted_at": "2026-03-01T20:57:10.139861+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1625,7 +1625,7 @@
     "source_position": 73,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.624669+00:00",
+    "extracted_at": "2026-03-01T20:57:10.139920+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1647,7 +1647,7 @@
     "source_position": 74,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.624747+00:00",
+    "extracted_at": "2026-03-01T20:57:10.140001+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1669,7 +1669,7 @@
     "source_position": 75,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.624839+00:00",
+    "extracted_at": "2026-03-01T20:57:10.140099+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -1691,7 +1691,7 @@
     "source_position": 76,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.624894+00:00",
+    "extracted_at": "2026-03-01T20:57:10.140158+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1713,7 +1713,7 @@
     "source_position": 77,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.641155+00:00",
+    "extracted_at": "2026-03-01T20:57:10.156619+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1735,7 +1735,7 @@
     "source_position": 78,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.641257+00:00",
+    "extracted_at": "2026-03-01T20:57:10.156724+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1757,7 +1757,7 @@
     "source_position": 79,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.641366+00:00",
+    "extracted_at": "2026-03-01T20:57:10.156831+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1779,7 +1779,7 @@
     "source_position": 80,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.647959+00:00",
+    "extracted_at": "2026-03-01T20:57:10.163232+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1801,7 +1801,7 @@
     "source_position": 81,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.651702+00:00",
+    "extracted_at": "2026-03-01T20:57:10.166988+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1823,7 +1823,7 @@
     "source_position": 82,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.689987+00:00",
+    "extracted_at": "2026-03-01T20:57:10.205583+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1845,7 +1845,7 @@
     "source_position": 83,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690089+00:00",
+    "extracted_at": "2026-03-01T20:57:10.205680+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -1867,7 +1867,7 @@
     "source_position": 84,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690165+00:00",
+    "extracted_at": "2026-03-01T20:57:10.205750+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1889,7 +1889,7 @@
     "source_position": 85,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690229+00:00",
+    "extracted_at": "2026-03-01T20:57:10.205813+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1911,7 +1911,7 @@
     "source_position": 86,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690325+00:00",
+    "extracted_at": "2026-03-01T20:57:10.205910+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1933,7 +1933,7 @@
     "source_position": 87,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690415+00:00",
+    "extracted_at": "2026-03-01T20:57:10.205999+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1955,7 +1955,7 @@
     "source_position": 88,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690562+00:00",
+    "extracted_at": "2026-03-01T20:57:10.206143+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -1977,7 +1977,7 @@
     "source_position": 89,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690656+00:00",
+    "extracted_at": "2026-03-01T20:57:10.206228+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -1999,7 +1999,7 @@
     "source_position": 90,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690703+00:00",
+    "extracted_at": "2026-03-01T20:57:10.206273+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2021,7 +2021,7 @@
     "source_position": 91,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690774+00:00",
+    "extracted_at": "2026-03-01T20:57:10.206343+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2043,7 +2043,7 @@
     "source_position": 92,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690834+00:00",
+    "extracted_at": "2026-03-01T20:57:10.206403+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2065,7 +2065,7 @@
     "source_position": 93,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.690925+00:00",
+    "extracted_at": "2026-03-01T20:57:10.206488+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2087,7 +2087,7 @@
     "source_position": 94,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.724349+00:00",
+    "extracted_at": "2026-03-01T20:57:10.240559+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2109,7 +2109,7 @@
     "source_position": 95,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.724446+00:00",
+    "extracted_at": "2026-03-01T20:57:10.240649+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -2131,7 +2131,7 @@
     "source_position": 96,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.724515+00:00",
+    "extracted_at": "2026-03-01T20:57:10.240716+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2153,7 +2153,7 @@
     "source_position": 97,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.724578+00:00",
+    "extracted_at": "2026-03-01T20:57:10.240779+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2175,7 +2175,7 @@
     "source_position": 98,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.724673+00:00",
+    "extracted_at": "2026-03-01T20:57:10.240878+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2197,7 +2197,7 @@
     "source_position": 99,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.724763+00:00",
+    "extracted_at": "2026-03-01T20:57:10.240976+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2219,7 +2219,7 @@
     "source_position": 100,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.724905+00:00",
+    "extracted_at": "2026-03-01T20:57:10.241120+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -2241,7 +2241,7 @@
     "source_position": 101,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.724993+00:00",
+    "extracted_at": "2026-03-01T20:57:10.241208+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2263,7 +2263,7 @@
     "source_position": 102,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.725037+00:00",
+    "extracted_at": "2026-03-01T20:57:10.241259+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2285,7 +2285,7 @@
     "source_position": 103,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.725106+00:00",
+    "extracted_at": "2026-03-01T20:57:10.241337+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2307,7 +2307,7 @@
     "source_position": 104,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.725166+00:00",
+    "extracted_at": "2026-03-01T20:57:10.241404+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2329,7 +2329,7 @@
     "source_position": 105,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.725250+00:00",
+    "extracted_at": "2026-03-01T20:57:10.241494+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2351,7 +2351,7 @@
     "source_position": 106,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.749755+00:00",
+    "extracted_at": "2026-03-01T20:57:10.266443+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2373,7 +2373,7 @@
     "source_position": 107,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.749856+00:00",
+    "extracted_at": "2026-03-01T20:57:10.266547+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2395,7 +2395,7 @@
     "source_position": 108,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.749930+00:00",
+    "extracted_at": "2026-03-01T20:57:10.266622+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2417,7 +2417,7 @@
     "source_position": 109,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.750049+00:00",
+    "extracted_at": "2026-03-01T20:57:10.266738+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2439,7 +2439,7 @@
     "source_position": 110,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.750116+00:00",
+    "extracted_at": "2026-03-01T20:57:10.266806+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -2461,7 +2461,7 @@
     "source_position": 111,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.750194+00:00",
+    "extracted_at": "2026-03-01T20:57:10.266894+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -2483,7 +2483,7 @@
     "source_position": 112,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.756802+00:00",
+    "extracted_at": "2026-03-01T20:57:10.273297+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2505,7 +2505,7 @@
     "source_position": 113,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.820857+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352013+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2527,7 +2527,7 @@
     "source_position": 114,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821006+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352167+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -2549,7 +2549,7 @@
     "source_position": 115,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821094+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352256+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2571,7 +2571,7 @@
     "source_position": 116,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821225+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352377+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2593,7 +2593,7 @@
     "source_position": 117,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821290+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352442+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2615,7 +2615,7 @@
     "source_position": 118,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821376+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352527+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2637,7 +2637,7 @@
     "source_position": 119,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821475+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352617+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2659,7 +2659,7 @@
     "source_position": 120,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821600+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352730+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2681,7 +2681,7 @@
     "source_position": 121,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821676+00:00",
+    "extracted_at": "2026-03-01T20:57:10.352798+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2703,7 +2703,7 @@
     "source_position": 122,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.821913+00:00",
+    "extracted_at": "2026-03-01T20:57:10.353051+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2725,7 +2725,7 @@
     "source_position": 123,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.822003+00:00",
+    "extracted_at": "2026-03-01T20:57:10.353142+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2747,7 +2747,7 @@
     "source_position": 124,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.822085+00:00",
+    "extracted_at": "2026-03-01T20:57:10.353224+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2769,7 +2769,7 @@
     "source_position": 125,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.822186+00:00",
+    "extracted_at": "2026-03-01T20:57:10.353340+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2791,7 +2791,7 @@
     "source_position": 126,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.822284+00:00",
+    "extracted_at": "2026-03-01T20:57:10.353441+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2813,7 +2813,7 @@
     "source_position": 127,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.880188+00:00",
+    "extracted_at": "2026-03-01T20:57:10.413212+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2835,7 +2835,7 @@
     "source_position": 128,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.880301+00:00",
+    "extracted_at": "2026-03-01T20:57:10.413331+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2857,7 +2857,7 @@
     "source_position": 129,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.880451+00:00",
+    "extracted_at": "2026-03-01T20:57:10.413480+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2879,7 +2879,7 @@
     "source_position": 130,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.880584+00:00",
+    "extracted_at": "2026-03-01T20:57:10.413612+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2901,7 +2901,7 @@
     "source_position": 131,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.880674+00:00",
+    "extracted_at": "2026-03-01T20:57:10.413712+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2923,7 +2923,7 @@
     "source_position": 132,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.880786+00:00",
+    "extracted_at": "2026-03-01T20:57:10.413835+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2945,7 +2945,7 @@
     "source_position": 133,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.880887+00:00",
+    "extracted_at": "2026-03-01T20:57:10.413945+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2967,7 +2967,7 @@
     "source_position": 134,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.880979+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414039+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -2989,7 +2989,7 @@
     "source_position": 135,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881078+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414138+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3011,7 +3011,7 @@
     "source_position": 136,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881172+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414232+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3033,7 +3033,7 @@
     "source_position": 137,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881281+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414336+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3055,7 +3055,7 @@
     "source_position": 138,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881398+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414453+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3077,7 +3077,7 @@
     "source_position": 139,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881490+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414545+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3099,7 +3099,7 @@
     "source_position": 140,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881577+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414630+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3121,7 +3121,7 @@
     "source_position": 141,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881677+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414730+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3143,7 +3143,7 @@
     "source_position": 142,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881808+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414873+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3165,7 +3165,7 @@
     "source_position": 143,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.881910+00:00",
+    "extracted_at": "2026-03-01T20:57:10.414985+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -3187,7 +3187,7 @@
     "source_position": 144,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.882008+00:00",
+    "extracted_at": "2026-03-01T20:57:10.415082+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -3209,7 +3209,7 @@
     "source_position": 145,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.900256+00:00",
+    "extracted_at": "2026-03-01T20:57:10.433461+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3231,7 +3231,7 @@
     "source_position": 146,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.900316+00:00",
+    "extracted_at": "2026-03-01T20:57:10.433530+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3253,7 +3253,7 @@
     "source_position": 147,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.900448+00:00",
+    "extracted_at": "2026-03-01T20:57:10.433663+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3275,7 +3275,7 @@
     "source_position": 148,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.900520+00:00",
+    "extracted_at": "2026-03-01T20:57:10.433734+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3297,7 +3297,7 @@
     "source_position": 149,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.926532+00:00",
+    "extracted_at": "2026-03-01T20:57:10.460443+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3319,7 +3319,7 @@
     "source_position": 150,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.926660+00:00",
+    "extracted_at": "2026-03-01T20:57:10.460563+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3341,7 +3341,7 @@
     "source_position": 151,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.926757+00:00",
+    "extracted_at": "2026-03-01T20:57:10.460648+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3363,7 +3363,7 @@
     "source_position": 152,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.926836+00:00",
+    "extracted_at": "2026-03-01T20:57:10.460705+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3385,7 +3385,7 @@
     "source_position": 153,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.926926+00:00",
+    "extracted_at": "2026-03-01T20:57:10.460799+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3407,7 +3407,7 @@
     "source_position": 154,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.927032+00:00",
+    "extracted_at": "2026-03-01T20:57:10.460862+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3429,7 +3429,7 @@
     "source_position": 155,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.927113+00:00",
+    "extracted_at": "2026-03-01T20:57:10.460924+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3451,7 +3451,7 @@
     "source_position": 156,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.927228+00:00",
+    "extracted_at": "2026-03-01T20:57:10.461014+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3473,7 +3473,7 @@
     "source_position": 157,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.946616+00:00",
+    "extracted_at": "2026-03-01T20:57:10.481272+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3495,7 +3495,7 @@
     "source_position": 158,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.946729+00:00",
+    "extracted_at": "2026-03-01T20:57:10.481392+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3517,7 +3517,7 @@
     "source_position": 159,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.946809+00:00",
+    "extracted_at": "2026-03-01T20:57:10.481477+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3539,7 +3539,7 @@
     "source_position": 160,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.946854+00:00",
+    "extracted_at": "2026-03-01T20:57:10.481524+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3561,7 +3561,7 @@
     "source_position": 161,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.946929+00:00",
+    "extracted_at": "2026-03-01T20:57:10.481601+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3583,7 +3583,7 @@
     "source_position": 162,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.946986+00:00",
+    "extracted_at": "2026-03-01T20:57:10.481659+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3605,7 +3605,7 @@
     "source_position": 163,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.947042+00:00",
+    "extracted_at": "2026-03-01T20:57:10.481717+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3627,7 +3627,7 @@
     "source_position": 164,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.947125+00:00",
+    "extracted_at": "2026-03-01T20:57:10.481802+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3649,7 +3649,7 @@
     "source_position": 165,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.993665+00:00",
+    "extracted_at": "2026-03-01T20:57:10.528516+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3671,7 +3671,7 @@
     "source_position": 166,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.993740+00:00",
+    "extracted_at": "2026-03-01T20:57:10.528588+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3693,7 +3693,7 @@
     "source_position": 167,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.993844+00:00",
+    "extracted_at": "2026-03-01T20:57:10.528692+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3715,7 +3715,7 @@
     "source_position": 168,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.993905+00:00",
+    "extracted_at": "2026-03-01T20:57:10.528754+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3737,7 +3737,7 @@
     "source_position": 169,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.994047+00:00",
+    "extracted_at": "2026-03-01T20:57:10.528886+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -3759,7 +3759,7 @@
     "source_position": 170,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.994106+00:00",
+    "extracted_at": "2026-03-01T20:57:10.528945+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3781,7 +3781,7 @@
     "source_position": 171,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.994226+00:00",
+    "extracted_at": "2026-03-01T20:57:10.529063+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3803,7 +3803,7 @@
     "source_position": 172,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.994326+00:00",
+    "extracted_at": "2026-03-01T20:57:10.529166+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3825,7 +3825,7 @@
     "source_position": 173,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.994450+00:00",
+    "extracted_at": "2026-03-01T20:57:10.529302+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3847,7 +3847,7 @@
     "source_position": 174,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.994555+00:00",
+    "extracted_at": "2026-03-01T20:57:10.529417+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3869,7 +3869,7 @@
     "source_position": 175,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.994658+00:00",
+    "extracted_at": "2026-03-01T20:57:10.529528+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3891,7 +3891,7 @@
     "source_position": 176,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:46.994768+00:00",
+    "extracted_at": "2026-03-01T20:57:10.529632+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3913,7 +3913,7 @@
     "source_position": 177,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.070298+00:00",
+    "extracted_at": "2026-03-01T20:57:10.605693+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -3935,7 +3935,7 @@
     "source_position": 178,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.070417+00:00",
+    "extracted_at": "2026-03-01T20:57:10.605816+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3957,7 +3957,7 @@
     "source_position": 179,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.070517+00:00",
+    "extracted_at": "2026-03-01T20:57:10.605909+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -3979,7 +3979,7 @@
     "source_position": 180,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.070631+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606015+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4001,7 +4001,7 @@
     "source_position": 181,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.070720+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606097+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4023,7 +4023,7 @@
     "source_position": 182,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.070815+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606193+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4045,7 +4045,7 @@
     "source_position": 183,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.070891+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606269+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4067,7 +4067,7 @@
     "source_position": 184,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.070956+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606336+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4089,7 +4089,7 @@
     "source_position": 185,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071050+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606432+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4111,7 +4111,7 @@
     "source_position": 186,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071156+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606539+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4133,7 +4133,7 @@
     "source_position": 187,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071280+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606658+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4155,7 +4155,7 @@
     "source_position": 188,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071397+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606771+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4177,7 +4177,7 @@
     "source_position": 189,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071485+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606855+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4199,7 +4199,7 @@
     "source_position": 190,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071560+00:00",
+    "extracted_at": "2026-03-01T20:57:10.606929+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4221,7 +4221,7 @@
     "source_position": 191,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071641+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607010+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4243,7 +4243,7 @@
     "source_position": 192,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071726+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607090+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4265,7 +4265,7 @@
     "source_position": 193,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071790+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607155+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4287,7 +4287,7 @@
     "source_position": 194,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071888+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607257+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4309,7 +4309,7 @@
     "source_position": 195,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.071973+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607346+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4331,7 +4331,7 @@
     "source_position": 196,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.072081+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607466+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4353,7 +4353,7 @@
     "source_position": 197,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.072175+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607565+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4375,7 +4375,7 @@
     "source_position": 198,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.072270+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607657+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4397,7 +4397,7 @@
     "source_position": 199,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.072400+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607784+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4419,7 +4419,7 @@
     "source_position": 200,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.072467+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607847+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4441,7 +4441,7 @@
     "source_position": 201,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.072582+00:00",
+    "extracted_at": "2026-03-01T20:57:10.607960+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4463,7 +4463,7 @@
     "source_position": 202,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102109+00:00",
+    "extracted_at": "2026-03-01T20:57:10.638743+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4485,7 +4485,7 @@
     "source_position": 203,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102188+00:00",
+    "extracted_at": "2026-03-01T20:57:10.638822+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4507,7 +4507,7 @@
     "source_position": 204,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102316+00:00",
+    "extracted_at": "2026-03-01T20:57:10.638937+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4529,7 +4529,7 @@
     "source_position": 205,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102411+00:00",
+    "extracted_at": "2026-03-01T20:57:10.639021+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4551,7 +4551,7 @@
     "source_position": 206,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102464+00:00",
+    "extracted_at": "2026-03-01T20:57:10.639074+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4573,7 +4573,7 @@
     "source_position": 207,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102536+00:00",
+    "extracted_at": "2026-03-01T20:57:10.639143+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4595,7 +4595,7 @@
     "source_position": 208,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102604+00:00",
+    "extracted_at": "2026-03-01T20:57:10.639212+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4617,7 +4617,7 @@
     "source_position": 209,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102664+00:00",
+    "extracted_at": "2026-03-01T20:57:10.639271+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4639,7 +4639,7 @@
     "source_position": 210,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102724+00:00",
+    "extracted_at": "2026-03-01T20:57:10.639331+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4661,7 +4661,7 @@
     "source_position": 211,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.102822+00:00",
+    "extracted_at": "2026-03-01T20:57:10.639426+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4683,7 +4683,7 @@
     "source_position": 212,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.118041+00:00",
+    "extracted_at": "2026-03-01T20:57:10.654840+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4705,7 +4705,7 @@
     "source_position": 213,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.118145+00:00",
+    "extracted_at": "2026-03-01T20:57:10.654957+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4727,7 +4727,7 @@
     "source_position": 214,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.118221+00:00",
+    "extracted_at": "2026-03-01T20:57:10.655050+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4749,7 +4749,7 @@
     "source_position": 215,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.118326+00:00",
+    "extracted_at": "2026-03-01T20:57:10.655162+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4771,7 +4771,7 @@
     "source_position": 216,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.172252+00:00",
+    "extracted_at": "2026-03-01T20:57:10.709987+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4793,7 +4793,7 @@
     "source_position": 217,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.172366+00:00",
+    "extracted_at": "2026-03-01T20:57:10.710114+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4815,7 +4815,7 @@
     "source_position": 218,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.172487+00:00",
+    "extracted_at": "2026-03-01T20:57:10.710235+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4837,7 +4837,7 @@
     "source_position": 219,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.172598+00:00",
+    "extracted_at": "2026-03-01T20:57:10.710363+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4859,7 +4859,7 @@
     "source_position": 220,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.172688+00:00",
+    "extracted_at": "2026-03-01T20:57:10.710464+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4881,7 +4881,7 @@
     "source_position": 221,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.172789+00:00",
+    "extracted_at": "2026-03-01T20:57:10.710578+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4903,7 +4903,7 @@
     "source_position": 222,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.172878+00:00",
+    "extracted_at": "2026-03-01T20:57:10.710677+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -4925,7 +4925,7 @@
     "source_position": 223,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.173004+00:00",
+    "extracted_at": "2026-03-01T20:57:10.710813+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4947,7 +4947,7 @@
     "source_position": 224,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.173116+00:00",
+    "extracted_at": "2026-03-01T20:57:10.710932+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4969,7 +4969,7 @@
     "source_position": 225,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.173195+00:00",
+    "extracted_at": "2026-03-01T20:57:10.711012+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -4991,7 +4991,7 @@
     "source_position": 226,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.173286+00:00",
+    "extracted_at": "2026-03-01T20:57:10.711103+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5013,7 +5013,7 @@
     "source_position": 227,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.173403+00:00",
+    "extracted_at": "2026-03-01T20:57:10.711229+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5035,7 +5035,7 @@
     "source_position": 228,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.173505+00:00",
+    "extracted_at": "2026-03-01T20:57:10.711342+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -5057,7 +5057,7 @@
     "source_position": 229,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.173611+00:00",
+    "extracted_at": "2026-03-01T20:57:10.711450+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5079,7 +5079,7 @@
     "source_position": 230,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.173739+00:00",
+    "extracted_at": "2026-03-01T20:57:10.711571+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5101,7 +5101,7 @@
     "source_position": 231,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.186366+00:00",
+    "extracted_at": "2026-03-01T20:57:10.725007+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5123,7 +5123,7 @@
     "source_position": 232,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.186428+00:00",
+    "extracted_at": "2026-03-01T20:57:10.725071+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5145,7 +5145,7 @@
     "source_position": 233,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.186514+00:00",
+    "extracted_at": "2026-03-01T20:57:10.725149+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -5167,7 +5167,7 @@
     "source_position": 234,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.186600+00:00",
+    "extracted_at": "2026-03-01T20:57:10.725227+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5189,7 +5189,7 @@
     "source_position": 235,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.211122+00:00",
+    "extracted_at": "2026-03-01T20:57:10.749741+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5211,7 +5211,7 @@
     "source_position": 236,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.211198+00:00",
+    "extracted_at": "2026-03-01T20:57:10.749812+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5233,7 +5233,7 @@
     "source_position": 237,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.211299+00:00",
+    "extracted_at": "2026-03-01T20:57:10.749909+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5255,7 +5255,7 @@
     "source_position": 238,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.211367+00:00",
+    "extracted_at": "2026-03-01T20:57:10.749978+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5277,7 +5277,7 @@
     "source_position": 239,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.211438+00:00",
+    "extracted_at": "2026-03-01T20:57:10.750051+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5299,7 +5299,7 @@
     "source_position": 240,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.211539+00:00",
+    "extracted_at": "2026-03-01T20:57:10.750150+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5321,7 +5321,7 @@
     "source_position": 241,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.288548+00:00",
+    "extracted_at": "2026-03-01T20:57:10.827172+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5343,7 +5343,7 @@
     "source_position": 242,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.288720+00:00",
+    "extracted_at": "2026-03-01T20:57:10.827349+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5365,7 +5365,7 @@
     "source_position": 243,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.288851+00:00",
+    "extracted_at": "2026-03-01T20:57:10.827484+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5387,7 +5387,7 @@
     "source_position": 244,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.289016+00:00",
+    "extracted_at": "2026-03-01T20:57:10.827639+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5409,7 +5409,7 @@
     "source_position": 245,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.289162+00:00",
+    "extracted_at": "2026-03-01T20:57:10.827773+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5431,7 +5431,7 @@
     "source_position": 246,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.289341+00:00",
+    "extracted_at": "2026-03-01T20:57:10.827951+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:state-dinner]"
@@ -5455,7 +5455,7 @@
     "source_position": 247,
     "extraction_confidence": 0.5,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.289518+00:00",
+    "extracted_at": "2026-03-01T20:57:10.828144+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:congress-flag]"
@@ -5479,7 +5479,7 @@
     "source_position": 248,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.289668+00:00",
+    "extracted_at": "2026-03-01T20:57:10.828293+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:samoa-flag]"
@@ -5503,7 +5503,7 @@
     "source_position": 249,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.289790+00:00",
+    "extracted_at": "2026-03-01T20:57:10.828421+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5525,7 +5525,7 @@
     "source_position": 250,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.289935+00:00",
+    "extracted_at": "2026-03-01T20:57:10.828565+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5547,7 +5547,7 @@
     "source_position": 251,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.290105+00:00",
+    "extracted_at": "2026-03-01T20:57:10.828719+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:tour-start-end]"
@@ -5571,7 +5571,7 @@
     "source_position": 252,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.290234+00:00",
+    "extracted_at": "2026-03-01T20:57:10.828835+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:tour-itinerary]"
@@ -5595,7 +5595,7 @@
     "source_position": 253,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.290342+00:00",
+    "extracted_at": "2026-03-01T20:57:10.828943+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5617,7 +5617,7 @@
     "source_position": 254,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.290446+00:00",
+    "extracted_at": "2026-03-01T20:57:10.829052+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -5639,7 +5639,7 @@
     "source_position": 255,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.290558+00:00",
+    "extracted_at": "2026-03-01T20:57:10.829166+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5661,7 +5661,7 @@
     "source_position": 256,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.290685+00:00",
+    "extracted_at": "2026-03-01T20:57:10.829293+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5683,7 +5683,7 @@
     "source_position": 257,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.290826+00:00",
+    "extracted_at": "2026-03-01T20:57:10.829449+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:commemoratives]"
@@ -5707,7 +5707,7 @@
     "source_position": 258,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.311201+00:00",
+    "extracted_at": "2026-03-01T20:57:10.849922+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5729,7 +5729,7 @@
     "source_position": 259,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.311306+00:00",
+    "extracted_at": "2026-03-01T20:57:10.850023+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5751,7 +5751,7 @@
     "source_position": 260,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.311410+00:00",
+    "extracted_at": "2026-03-01T20:57:10.850122+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:Launius]"
@@ -5775,7 +5775,7 @@
     "source_position": 261,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.311460+00:00",
+    "extracted_at": "2026-03-01T20:57:10.850169+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5797,7 +5797,7 @@
     "source_position": 262,
     "extraction_confidence": 0.55,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.311541+00:00",
+    "extracted_at": "2026-03-01T20:57:10.850260+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5819,7 +5819,7 @@
     "source_position": 263,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.329362+00:00",
+    "extracted_at": "2026-03-01T20:57:10.868538+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5841,7 +5841,7 @@
     "source_position": 264,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.329461+00:00",
+    "extracted_at": "2026-03-01T20:57:10.868646+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5863,7 +5863,7 @@
     "source_position": 265,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.329561+00:00",
+    "extracted_at": "2026-03-01T20:57:10.868750+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [
       "[REF:Launius]"
@@ -5887,7 +5887,7 @@
     "source_position": 266,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.329610+00:00",
+    "extracted_at": "2026-03-01T20:57:10.868800+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5909,7 +5909,7 @@
     "source_position": 267,
     "extraction_confidence": 0.55,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.329690+00:00",
+    "extracted_at": "2026-03-01T20:57:10.868885+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5931,7 +5931,7 @@
     "source_position": 268,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.337411+00:00",
+    "extracted_at": "2026-03-01T20:57:10.876950+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5953,7 +5953,7 @@
     "source_position": 269,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.352232+00:00",
+    "extracted_at": "2026-03-01T20:57:10.891719+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5975,7 +5975,7 @@
     "source_position": 270,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.352317+00:00",
+    "extracted_at": "2026-03-01T20:57:10.891801+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -5997,7 +5997,7 @@
     "source_position": 271,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.352377+00:00",
+    "extracted_at": "2026-03-01T20:57:10.891858+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6019,7 +6019,7 @@
     "source_position": 272,
     "extraction_confidence": 0.6,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.352424+00:00",
+    "extracted_at": "2026-03-01T20:57:10.891906+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": true
@@ -6041,7 +6041,7 @@
     "source_position": 273,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.352484+00:00",
+    "extracted_at": "2026-03-01T20:57:10.891962+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6063,7 +6063,7 @@
     "source_position": 274,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.359025+00:00",
+    "extracted_at": "2026-03-01T20:57:10.898170+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6085,7 +6085,7 @@
     "source_position": 275,
     "extraction_confidence": 0.8,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.359086+00:00",
+    "extracted_at": "2026-03-01T20:57:10.898219+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6107,7 +6107,7 @@
     "source_position": 276,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.359135+00:00",
+    "extracted_at": "2026-03-01T20:57:10.898268+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6129,7 +6129,7 @@
     "source_position": 277,
     "extraction_confidence": 0.7,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.363916+00:00",
+    "extracted_at": "2026-03-01T20:57:10.902535+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6151,7 +6151,7 @@
     "source_position": 278,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.375698+00:00",
+    "extracted_at": "2026-03-01T20:57:10.913758+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6173,7 +6173,7 @@
     "source_position": 279,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.375833+00:00",
+    "extracted_at": "2026-03-01T20:57:10.913868+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6195,7 +6195,7 @@
     "source_position": 280,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.383899+00:00",
+    "extracted_at": "2026-03-01T20:57:10.921333+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6217,7 +6217,7 @@
     "source_position": 281,
     "extraction_confidence": 0.65,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.390354+00:00",
+    "extracted_at": "2026-03-01T20:57:10.928077+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6239,7 +6239,7 @@
     "source_position": 282,
     "extraction_confidence": 0.75,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.401419+00:00",
+    "extracted_at": "2026-03-01T20:57:10.939374+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false
@@ -6261,7 +6261,7 @@
     "source_position": 283,
     "extraction_confidence": 0.85,
     "extraction_model": "spacy:en_core_web_sm",
-    "extracted_at": "2026-03-01T19:48:47.401512+00:00",
+    "extracted_at": "2026-03-01T20:57:10.939469+00:00",
     "wikipedia_revision_id": "1340914425",
     "citations_in_source": [],
     "context_dependent": false

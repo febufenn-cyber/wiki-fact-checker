@@ -1,0 +1,121 @@
+{
+  "article_title": "World War II",
+  "article_slug": "world_war_ii",
+  "sampling_strategy": "annual_last_revision",
+  "years_covered": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "total_revisions": 10,
+  "fetched_at": "2026-03-01T20:38:55.601497+00:00",
+  "revisions": [
+    {
+      "revid": 817711755,
+      "year": 2017,
+      "timestamp": "2017-12-30T03:28:08Z",
+      "user": "Nick-D",
+      "comment": "/* Pre-war events */ remove unclear, cluttered and boring photo - section already has too many, and this is not a good c",
+      "size_bytes": 228563,
+      "content_file": "817711755_content.json",
+      "n_sections": 31
+    },
+    {
+      "revid": 875667494,
+      "year": 2018,
+      "timestamp": "2018-12-28T05:13:53Z",
+      "user": "Srich32977",
+      "comment": "Cleaned up using [[WP:AutoEd|AutoEd]] Copyedit (major)",
+      "size_bytes": 220947,
+      "content_file": "875667494_content.json",
+      "n_sections": 31
+    },
+    {
+      "revid": 933230782,
+      "year": 2019,
+      "timestamp": "2019-12-30T18:30:13Z",
+      "user": "E-960",
+      "comment": "/* Axis collapse, Allied victory (1944–45) */ thumb upright",
+      "size_bytes": 234484,
+      "content_file": "933230782_content.json",
+      "n_sections": 31
+    },
+    {
+      "revid": 997278083,
+      "year": 2020,
+      "timestamp": "2020-12-30T20:08:21Z",
+      "user": "Whizz40",
+      "comment": "Main Allied leaders were the Big Three, per https://www.google.com/books/edition/World_History/BBBEDwAAQBAJ?hl=en&gbpv=1",
+      "size_bytes": 235437,
+      "content_file": "997278083_content.json",
+      "n_sections": 31
+    },
+    {
+      "revid": 1062555702,
+      "year": 2021,
+      "timestamp": "2021-12-29T04:49:47Z",
+      "user": "InternetArchiveBot",
+      "comment": "Rescuing 2 sources and tagging 0 as dead.) #IABot (v2.0.8.5) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 9148",
+      "size_bytes": 238131,
+      "content_file": "1062555702_content.json",
+      "n_sections": 31
+    },
+    {
+      "revid": 1130700408,
+      "year": 2022,
+      "timestamp": "2022-12-31T14:29:40Z",
+      "user": "Littleboyblue2000",
+      "comment": "/* External links */",
+      "size_bytes": 256784,
+      "content_file": "1130700408_content.json",
+      "n_sections": 31
+    },
+    {
+      "revid": 1192418868,
+      "year": 2023,
+      "timestamp": "2023-12-29T06:48:54Z",
+      "user": "Goszei",
+      "comment": "more logical paragraph breaks",
+      "size_bytes": 251855,
+      "content_file": "1192418868_content.json",
+      "n_sections": 34
+    },
+    {
+      "revid": 1266362767,
+      "year": 2024,
+      "timestamp": "2024-12-31T06:50:16Z",
+      "user": "Aemilius Adolphin",
+      "comment": "Undid revision [[Special:Diff/1266334880|1266334880]] by [[Special:Contributions/Buidhe|Buidhe]] ([[User talk:Buidhe|tal",
+      "size_bytes": 255215,
+      "content_file": "1266362767_content.json",
+      "n_sections": 34
+    },
+    {
+      "revid": 1330365110,
+      "year": 2025,
+      "timestamp": "2025-12-31T00:39:40Z",
+      "user": "Aemilius Adolphin",
+      "comment": "/* Start and end dates */ Deleted content not supported by cited source. See Talk.",
+      "size_bytes": 256056,
+      "content_file": "1330365110_content.json",
+      "n_sections": 33
+    },
+    {
+      "revid": 1341164509,
+      "year": 2026,
+      "timestamp": "2026-03-01T20:36:39Z",
+      "user": "Rl plene",
+      "comment": "The recently added images overemphasize British and German subject matter, for example there is no need to include three",
+      "size_bytes": 250946,
+      "content_file": "1341164509_content.json",
+      "n_sections": 33
+    }
+  ]
+}
