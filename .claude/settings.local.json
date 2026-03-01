@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \":*)",
+      "Bash(source .venv/bin/activate)",
+      "Bash(python3 main.py \"Apollo 11\")",
+      "Bash(python3 compare.py \"Apollo 11\" 1130551454 1191771826)"
+    ]
+  }
+}

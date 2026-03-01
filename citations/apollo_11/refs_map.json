@@ -1,0 +1,31 @@
+{
+  "article": "Apollo 11",
+  "computed_at": "2026-03-01T19:34:54.167062+00:00",
+  "revision": {
+    "revid": 1340914425,
+    "year": 2026
+  },
+  "stats": {
+    "named_defs_in_article": 25,
+    "placeholder_names_in_stored_text": 15,
+    "resolved": 14,
+    "unresolved": 1,
+    "coverage_pct": 93.3
+  },
+  "refs_map": {
+    "A11FJ-3-1": "\"Day 3, part 1: Viewing Africa and Breakfast.\" Apollo Flight Journal, 2019.",
+    "A11FJ-4-4": "\"Day 4, part 4: Checking Out Eagle.\" Apollo Flight Journal, 2019.",
+    "Launius": "\"Project Apollo: A Retrospective Analysis.\"",
+    "Murray-Cox": "\"Apollo, the race to the moon.\" Simon & Schuster, 1989.",
+    "NASA-SP4223": "Glen E. Swanson. \"SP-4223: Before This Decade is Out—Personal Reflections on the Apollo Program—Chapter 9—Glynn S. Lunney.\" NASA, 2004.",
+    "apollo-effect": "Logsdon, John M., Logsdon, John M.. \"The Legacy of Apollo.\" Issues in Science and Technology, 1999.",
+    "commemoratives": "\"The World Salutes Apollo 11.\" National Geographic, 1969.",
+    "congress-flag": "\"Apollo 11 Crew Speaks to Congress.\" NASA.",
+    "nyc-chicago": "\"Apollo 11 Astronauts Hailed by Millions in New York and Chicago.\" The New York Times, 1969.",
+    "samoa-flag": "\"Apollo 11 Flag on Display in American Samoa.\" Government of American Samoa.",
+    "state-dinner": "\"Apollo Heroes Honored in Star-Studded Banquet.\" Los Angeles Times, 1969.",
+    "tour-itinerary": "\"NASA Special Publication SP-287: Apollo 11.\" NASA, 1970.",
+    "tour-start-end": "\"Apollo Astronauts Begin Global Tour.\" The Washington Post, 1969.",
+    "world-tour": "Chaikin, Andrew, Chaikin, Andrew. \"A Man on the Moon The Voyages of the Apollo Astronauts.\" Penguin Books, 1995."
+  }
+}

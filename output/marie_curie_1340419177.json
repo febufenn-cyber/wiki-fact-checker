@@ -1,0 +1,1789 @@
+[
+  {
+    "assertion_id": "4b8d4132d66dd832e19d598ad629a58124b5b756ed56677f8699e2404425de5c",
+    "claim_text": "at 16 Freta Street in Warsaw's New Town]]\nMaria Salomea Skłodowska Curie (; ; 7 November 1867 – 4 July 1934)",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": "November 1867, 4 July 1934",
+      "spatial": "Freta Street, Warsaw",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Lead",
+    "source_position": 0,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.844787+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "daab2f1092bf307ce9e567dad392f084ebd450410eef2a66cb78bd77c440c2fe",
+    "claim_text": ", and Helena, 1890]]\nMaria Salomea Skłodowska was born in Warsaw, in Congress Poland in the Russian Empire, on 7 November 1867, the fifth and youngest child of well-known teachers Bronisława, née Boguska, and Władysław Skłodowski.",
+    "claim_type": "factual",
+    "subject": "Helena",
+    "predicate": "born",
+    "object": null,
+    "qualifiers": {
+      "temporal": "1890, 7 November 1867",
+      "spatial": "Warsaw, the Russian Empire, Boguska",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life and career",
+    "source_position": 1,
+    "extraction_confidence": 0.6,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.870588+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Nobel1]"
+    ]
+  },
+  {
+    "assertion_id": "cc417a54d7819c96d5d1ace8c8d5d7d9d10ac40b2fb48a29d0e16a7459e55faa",
+    "claim_text": "The elder siblings of Maria (nicknamed Mania) were Zofia (born 1862, nicknamed Zosia), (born 1863, nicknamed Józio), Bronisława (born 1865, nicknamed Bronia) and Helena (born 1866, nicknamed Hela).",
+    "claim_type": "factual",
+    "subject": "The elder siblings",
+    "predicate": "were",
+    "object": "Zofia",
+    "qualifiers": {
+      "temporal": "1862, 1863, 1865, 1866",
+      "spatial": "Maria, Mania, Bronia",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life and career",
+    "source_position": 2,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.870775+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938a]"
+    ]
+  },
+  {
+    "assertion_id": "daab2f1092bf307ce9e567dad392f084ebd450410eef2a66cb78bd77c440c2fe",
+    "claim_text": ", and Helena, 1890]]\nMaria Salomea Skłodowska was born in Warsaw, in Congress Poland in the Russian Empire, on 7 November 1867, the fifth and youngest child of well-known teachers Bronisława, née Boguska, and Władysław Skłodowski.",
+    "claim_type": "factual",
+    "subject": "Helena",
+    "predicate": "born",
+    "object": null,
+    "qualifiers": {
+      "temporal": "1890, 7 November 1867",
+      "spatial": "Warsaw, the Russian Empire, Boguska",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Early years",
+    "source_position": 3,
+    "extraction_confidence": 0.6,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.887827+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Nobel1]"
+    ]
+  },
+  {
+    "assertion_id": "cc417a54d7819c96d5d1ace8c8d5d7d9d10ac40b2fb48a29d0e16a7459e55faa",
+    "claim_text": "The elder siblings of Maria (nicknamed Mania) were Zofia (born 1862, nicknamed Zosia), (born 1863, nicknamed Józio), Bronisława (born 1865, nicknamed Bronia) and Helena (born 1866, nicknamed Hela).",
+    "claim_type": "factual",
+    "subject": "The elder siblings",
+    "predicate": "were",
+    "object": "Zofia",
+    "qualifiers": {
+      "temporal": "1862, 1863, 1865, 1866",
+      "spatial": "Maria, Mania, Bronia",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Early years",
+    "source_position": 4,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.887984+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938a]"
+    ]
+  },
+  {
+    "assertion_id": "f12f2e6aa551b43b59eba1f65bb46d76767bd98188939ed4fbe3db9b9078dfca",
+    "claim_text": "In late 1891, she left Poland for France.",
+    "claim_type": "factual",
+    "subject": "she",
+    "predicate": "left",
+    "object": "Poland",
+    "qualifiers": {
+      "temporal": "late 1891",
+      "spatial": "Poland, France",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 5,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.942096+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "f34afc8991d649ec9b1d877141ef853fdc78836b5a73360c50fd236df1500c40",
+    "claim_text": "In Paris, Maria (or Marie, as she would be known in France) briefly found shelter with her sister and brother-in-law before renting a garret closer to the university, in the Latin Quarter, and proceeding with her studies of physics, chemistry, and mathematics at the University of Paris, where she enrolled in late 1891.",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "found",
+    "object": "shelter",
+    "qualifiers": {
+      "temporal": "the Latin Quarter, late 1891",
+      "spatial": "Paris, France",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 6,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.942309+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "969a349996145f008e6dc25684c7dcecb0761ae9ca43fde0d06f22a77240bc55",
+    "claim_text": "Skłodowska studied during the day and tutored evenings, barely earning her keep.",
+    "claim_type": "factual",
+    "subject": "Reid] Skłodowska",
+    "predicate": "studied",
+    "object": null,
+    "qualifiers": {
+      "temporal": "the day",
+      "spatial": "Skłodowska",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 7,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.942406+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Reid]"
+    ]
+  },
+  {
+    "assertion_id": "a9d197b3dc22a906aa47a4f1acf660c7abc158d75479b5f29f9bf703484938a4",
+    "claim_text": "In 1893, she was awarded a degree in physics and began work in an industrial laboratory of Gabriel Lippmann.",
+    "claim_type": "factual",
+    "subject": "she",
+    "predicate": "awarded",
+    "object": "a degree",
+    "qualifiers": {
+      "temporal": "1893",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 8,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.942513+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "098b7a63af559a2c98282559b158b70b5b8e852360c01ef9307caf2a1b8e45e4",
+    "claim_text": "Meanwhile, she continued studying at the University of Paris and with the aid of a fellowship she was able to earn a second degree in 1894.",
+    "claim_type": "factual",
+    "subject": "she",
+    "predicate": "continued",
+    "object": null,
+    "qualifiers": {
+      "temporal": "1894",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 9,
+    "extraction_confidence": 0.8,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.942632+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "2c7e9c6828cb89bed730541deab51133100a78b0fdd164a341a4fe23da3f4bde",
+    "claim_text": "Skłodowska had begun her scientific career in Paris with an investigation of the magnetic properties of various steels, commissioned by the Society for the Encouragement of National Industry.",
+    "claim_type": "factual",
+    "subject": "Skłodowska",
+    "predicate": "begun",
+    "object": "her scientific career",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "Skłodowska, Paris",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 10,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.942772+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938a]"
+    ]
+  },
+  {
+    "assertion_id": "acfc36f4c01adae94b0d16e26e4e59759eed2b5ce4a0a16e05f4dff4a9056488",
+    "claim_text": "Pierre Curie was an instructor at The City of Paris Industrial Physics and Chemistry Higher Educational Institution (ESPCI Paris).",
+    "claim_type": "factual",
+    "subject": "Pierre Curie",
+    "predicate": "was",
+    "object": "an instructor",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "The City of, Paris",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 11,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.942887+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "9a7cad1befa88cd7ebd903212db3504e5074c36b7d9cf5a868194811a86c3b17",
+    "claim_text": "They were introduced by Polish physicist Józef Wierusz-Kowalski, who had learned that she was looking for a larger laboratory space, something that Wierusz-Kowalski thought Pierre could access.",
+    "claim_type": "factual",
+    "subject": "They",
+    "predicate": "introduced",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 12,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.943030+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938a]"
+    ]
+  },
+  {
+    "assertion_id": "f6882228ac24d3b314512a442509e7c6641e9b7cf01bf0f7171716808aaa2468",
+    "claim_text": "and Marie Skłodowska-Curie, 1895]]\nTheir mutual passion for science brought them increasingly closer, and they began to develop feelings for one another.",
+    "claim_type": "factual",
+    "subject": "REF",
+    "predicate": "brought",
+    "object": "them",
+    "qualifiers": {
+      "temporal": "1895",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 13,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.943156+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938a]"
+    ]
+  },
+  {
+    "assertion_id": "04e86da062a8ecf70ee99dfc6634ce9667efe2384927a90ab04c5472af999ed5",
+    "claim_text": "She was still labouring under the illusion that she would be able to work in her chosen field in Poland, but she was denied a place at Kraków University because of sexism in academia.",
+    "claim_type": "interpretive",
+    "subject": "She",
+    "predicate": "labouring",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "Poland",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 14,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.943280+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938a]"
+    ]
+  },
+  {
+    "assertion_id": "1bbff1b3224bf7e9e09af1a9c6d34737e86fe3f0b1ac3d73f8ad21af86a9f2ad",
+    "claim_text": "A letter from Pierre convinced her to return to Paris to pursue a PhD. A contemporary quip would call Skłodowska \"Pierre's biggest discovery\".",
+    "claim_type": "factual",
+    "subject": "A letter",
+    "predicate": "convinced",
+    "object": "her",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "Paris, Skłodowska",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 15,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.943396+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "d7ba9a3b4948e19bff3bdbe2867ac2de47447d2050668bcc1710700f7f3281b6",
+    "claim_text": "On 26 July 1895, they were married in Sceaux; [REF:",
+    "claim_type": "factual",
+    "subject": "they",
+    "predicate": "married",
+    "object": null,
+    "qualifiers": {
+      "temporal": "26 July 1895",
+      "spatial": "Sceaux",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Life in Paris",
+    "source_position": 16,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:17.943493+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Wierzewski2008]"
+    ]
+  },
+  {
+    "assertion_id": "ec81d0c0ea5507ac3decce6d6c43c712aa7620150b9594f3e266151b5eb603bb",
+    "claim_text": "In 1895, Wilhelm Röntgen discovered the existence of X-rays, though the mechanism behind their production was not yet understood.",
+    "claim_type": "factual",
+    "subject": "Wilhelm Röntgen",
+    "predicate": "discovered",
+    "object": "the existence",
+    "qualifiers": {
+      "temporal": "1895",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 17,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.030811+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "e3335260df778b7cf13051d6a7c5cfd6f75a88379cb7cefe9efbe037c3e62f3a",
+    "claim_text": "He demonstrated that this radiation, unlike phosphorescence, did not depend on an external source of energy but seemed to arise spontaneously from uranium itself.",
+    "claim_type": "factual",
+    "subject": "He",
+    "predicate": "demonstrated",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 18,
+    "extraction_confidence": 0.8,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.030940+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "19e62d901f3f887d683fbd51ee3741afb9feac1c269123ec02dcab33b4a60d30",
+    "claim_text": "Influenced by these two important discoveries, Curie decided to look into uranium rays as a possible field of research for a thesis.",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "decided",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 19,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031056+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "25fe7867a1b16ec1ec18cff3c2c74486a2ffeb84d69b46343470c8eec36aa702",
+    "claim_text": "She used an innovative technique to investigate samples.",
+    "claim_type": "factual",
+    "subject": "She",
+    "predicate": "used",
+    "object": "an innovative technique",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 20,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031142+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938a]"
+    ]
+  },
+  {
+    "assertion_id": "dc7b509322f312e434a3d99aa8bb50d1353f6a4528ae581f6e78cbdfe0cd138d",
+    "claim_text": "Fifteen years earlier, her husband and his brother had developed a version of the electrometer, a sensitive device for measuring electric charge.",
+    "claim_type": "factual",
+    "subject": "her husband",
+    "predicate": "developed",
+    "object": "a version",
+    "qualifiers": {
+      "temporal": "Fifteen years earlier",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 21,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031261+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "90a109b07335c7470d663aa424cd0daeac85375b24f748fdce29cf84e7794c71",
+    "claim_text": "She hypothesized that the radiation was not the outcome of some interaction of molecules but must come from the atom itself.",
+    "claim_type": "factual",
+    "subject": "She",
+    "predicate": "hypothesized",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 22,
+    "extraction_confidence": 0.8,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031368+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "da8860e1a7c7394d1b0d2a3435f027c5480195ca4852384a140aee0bdcb5642d",
+    "claim_text": "In 1897, her daughter Irène was born.",
+    "claim_type": "factual",
+    "subject": "her daughter",
+    "predicate": "born",
+    "object": null,
+    "qualifiers": {
+      "temporal": "1897",
+      "spatial": "Irène",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 23,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031456+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Reid]"
+    ]
+  },
+  {
+    "assertion_id": "7d57da8ccdd9609b8e0b25da2f59e51389bb2ca896fe9537b85a6da4a2b7f539",
+    "claim_text": "To support her family, Curie began teaching at the .",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "began",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 24,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031539+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "e20992bb93d65a13dd3244409f4a0b8f9a01dfe7607017370ddb36c9da5ba345",
+    "claim_text": "The Curies did not have a dedicated laboratory; most of their research was carried out in a converted shed next to ESPCI.",
+    "claim_type": "factual",
+    "subject": "most",
+    "predicate": "carried",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 25,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031658+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "bbca443e100a206022c2005d06120eff7a959f6dad3fdbf9f43f19875e950911",
+    "claim_text": "The shed, formerly a medical school dissecting room, was poorly ventilated and not even waterproof.",
+    "claim_type": "factual",
+    "subject": "The shed",
+    "predicate": "ventilated",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 26,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031763+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "eb44ac4649b85858061ef609454462454d477269b573f43f35a6d4dfdb91ec08",
+    "claim_text": "Curie's systematic studies included two uranium minerals, pitchblende and torbernite (also known as chalcolite).",
+    "claim_type": "factual",
+    "subject": "Curie's systematic studies",
+    "predicate": "included",
+    "object": "two uranium minerals",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 27,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.031862+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "9b88bb8c6c3be12cc72598ec2af49ee809dab737f4440fb3be87300ac4e404e2",
+    "claim_text": "She began a systematic search for additional substances that emit radiation, and by 1898 she discovered that the element thorium was also radioactive.\n\n, and Marie Curie, ]]\nShe was acutely aware of the importance of promptly publishing her discoveries and thus establishing her priority.",
+    "claim_type": "interpretive",
+    "subject": "She",
+    "predicate": "was",
+    "object": "aware",
+    "qualifiers": {
+      "temporal": "1898",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 28,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.032027+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Reid]"
+    ]
+  },
+  {
+    "assertion_id": "5cdfbdb7097f92b0ea15aa658bac57103d2b390510624d0b462790084aed9170",
+    "claim_text": "Had not Becquerel, two years earlier, presented his discovery to the Académie des Sciences the day after he made it, credit for the discovery of radioactivity (and even a Nobel Prize), would instead have gone to Silvanus Thompson.",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "presented",
+    "object": "his discovery",
+    "qualifiers": {
+      "temporal": "two years earlier, the day",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 29,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.032194+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "9daf08ca56b025d07d0bb3cfdc9b8db44f75466d6e35e23c06a8ab3452ef285d",
+    "claim_text": "Curie chose the same rapid means of publication.",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "chose",
+    "object": "the same rapid means",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 30,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.032273+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "eb4af828594ad0eeadd36a4eafb06cebe92d5403a0212cbdac44371b18383f78",
+    "claim_text": "Since she was not a member of the Académie, her paper, giving a brief and simple account of her work, was presented for her to the Académie on 12 April 1898 by her former professor, Gabriel Lippmann.",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "presented",
+    "object": null,
+    "qualifiers": {
+      "temporal": "12 April 1898",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 31,
+    "extraction_confidence": 0.4,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.032434+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "65ee62b753d9827e3d411997d9e2e427eae57e4aa3e9aca3f59a611d629683dd",
+    "claim_text": "Even so, just as Thompson had been beaten by Becquerel, so Curie was beaten in the race to tell of her discovery that thorium gives off rays in the same way as uranium; two months earlier, Gerhard Carl Schmidt had published his own finding in Berlin.",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "beaten",
+    "object": null,
+    "qualifiers": {
+      "temporal": "two months earlier",
+      "spatial": "Berlin",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 32,
+    "extraction_confidence": 0.5,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.032615+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Reid]"
+    ]
+  },
+  {
+    "assertion_id": "1328a41422ff8de63808b1fffb67d485bafebb1687587ae24a1912d031fd935d",
+    "claim_text": "At that time, no one else in the world of physics had noticed what Curie recorded in a sentence of her paper, describing how much greater were the activities of pitchblende and chalcolite than that of uranium itself: \"The fact is very remarkable, and leads to the belief that these minerals may contain an element which is much more active than uranium.\"",
+    "claim_type": "factual",
+    "subject": "The fact",
+    "predicate": "is",
+    "object": "remarkable",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 33,
+    "extraction_confidence": 0.65,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.032829+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "b2a041ceb34e6c134d89236da303e1958e06fb4a81c15c44fd7471ab04e68aeb",
+    "claim_text": "She later would recall how she felt \"a passionate desire to verify this hypothesis as rapidly as possible\".",
+    "claim_type": "factual",
+    "subject": "She",
+    "predicate": "recall",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 34,
+    "extraction_confidence": 0.8,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.032929+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "122efa249351718040cd2cacbb6ecc4fe89b10ce0aaea417d54f56fa4949e87a",
+    "claim_text": "On 14 April 1898, the Curies optimistically weighed out a 100-gram sample of pitchblende and ground it with a pestle and mortar.",
+    "claim_type": "factual",
+    "subject": "the Curies",
+    "predicate": "weighed",
+    "object": "a 100-gram sample",
+    "qualifiers": {
+      "temporal": "14 April 1898",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 35,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.033051+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Reid]"
+    ]
+  },
+  {
+    "assertion_id": "ea4fa88759648de281ae9c54e5f90b435f6fa117d9cf585b3bc431c56bebcf56",
+    "claim_text": "They did not realise at the time that what they were searching for was present in such minute quantities that they would eventually have to process tonnes of the ore.",
+    "claim_type": "factual",
+    "subject": "They",
+    "predicate": "realise",
+    "object": null,
+    "qualifiers": {
+      "temporal": "such minute",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 36,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.033175+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "49e7c2dfa24a21caf80d1d135ecf81a70068f1bca8779aebc7f12938fe310ff2",
+    "claim_text": "In July 1898, Curie and her husband published a joint paper announcing the existence of an element they named 'polonium', in honour of her native Poland, [REF:",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "published",
+    "object": "a joint paper",
+    "qualifiers": {
+      "temporal": "July 1898",
+      "spatial": "Poland",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "New elements",
+    "source_position": 37,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.033304+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Reid]"
+    ]
+  },
+  {
+    "assertion_id": "7d60c3abe8e65d513550d14557b4032085035875a29d6273e4ed904bd6feaf73",
+    "claim_text": "In December 1903 the Royal Swedish Academy of Sciences awarded Pierre Curie, Marie Curie, and Henri Becquerel the Nobel Prize in Physics, [REF:",
+    "claim_type": "factual",
+    "subject": "the Royal Swedish Academy",
+    "predicate": "awarded",
+    "object": "Pierre Curie",
+    "qualifiers": {
+      "temporal": "December 1903",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Nobel Prizes",
+    "source_position": 38,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.038104+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "17c6118c20870bb839d16874a9a9e61cc12d44c3fdd327709fe1b6687ab1510f",
+    "claim_text": "During World War I, Curie recognised that wounded soldiers were best served if operated upon as soon as possible.",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "recognised",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": "if operated upon as soon as possible."
+    },
+    "source_article": "Marie Curie",
+    "source_section": "World War I",
+    "source_position": 39,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.049714+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "dc602a4f3af3a271c1579274c82aa343171b4faa92d31ae9414d4d76a0d851d9",
+    "claim_text": "She saw a need for field radiological centres near the front lines to assist battlefield surgeons, including to obviate amputations when in fact limbs could be saved.",
+    "claim_type": "factual",
+    "subject": "She",
+    "predicate": "saw",
+    "object": "a need",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "World War I",
+    "source_position": 40,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.049800+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "478ed3c1e5ca616c201039113039583d18c900d67c9060f8a80b4e15890e02d4",
+    "claim_text": "In 1920, for the 25th anniversary of the discovery of radium, the French government established a stipend for her; its previous recipient was Louis Pasteur, who had died in 1895.",
+    "claim_type": "factual",
+    "subject": "its previous recipient",
+    "predicate": "was",
+    "object": null,
+    "qualifiers": {
+      "temporal": "1920, the 25th anniversary, 1895",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 41,
+    "extraction_confidence": 0.8,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.088409+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "32702af6767d58da25cd9c6a96abfdd831378bd9c5222adca7c1400957c71454",
+    "claim_text": "In 1921, Curie toured the United States to raise funds for research on radium.",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "toured",
+    "object": "the United States",
+    "qualifiers": {
+      "temporal": "1921",
+      "spatial": "the United States",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 42,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.088513+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "e2ecc427480641e0e42f258fe1f3b55b18248d6d44eabe16de236054c874f84e",
+    "claim_text": "Marie Mattingly Meloney, after interviewing Curie, created a Marie Curie Radium Fund and helped publicise her trip.",
+    "claim_type": "factual",
+    "subject": "Marie Mattingly Meloney",
+    "predicate": "created",
+    "object": "a Marie Curie Radium Fund",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 43,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.088610+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "3624c24018669501b333d1988165aceb22688695faa67e90c07ece876b9d1d13",
+    "claim_text": "In 1921 U.S. President Warren G. Harding received Curie at the White House to present her with the 1&nbsp;gram of radium collected in the United States.",
+    "claim_type": "factual",
+    "subject": "U.S. President Warren G. Harding",
+    "predicate": "received",
+    "object": "Curie",
+    "qualifiers": {
+      "temporal": "1921",
+      "spatial": "U.S., the White House, the United States",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 44,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.088740+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Lewicki2002]"
+    ]
+  },
+  {
+    "assertion_id": "3be11473ac3882f7ed0b59e0f8fc4e7d034d469953ca2bf4983a85af5a630df2",
+    "claim_text": "Before the meeting, recognising her growing fame abroad, and embarrassed by the fact that she had no French official distinctions to wear in public, the French government had offered her a Legion of Honour award, but she refused it.",
+    "claim_type": "factual",
+    "subject": "the French government",
+    "predicate": "offered",
+    "object": "award",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 45,
+    "extraction_confidence": 0.65,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.088887+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "79ac9b1b8c9d2a56a36d285277506e9d4e482fb9fc62a0beabd254d78b375512",
+    "claim_text": "In 1922 she became a fellow of the French Academy of Medicine.",
+    "claim_type": "factual",
+    "subject": "she",
+    "predicate": "became",
+    "object": "a fellow",
+    "qualifiers": {
+      "temporal": "1922",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 46,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.088974+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "2eeff581fbc20c66d3e57cb0161930e7bc5d99b309a8f322a2b4033a67d5f8fb",
+    "claim_text": "She also travelled to other countries, appearing publicly and giving lectures in Belgium, Brazil, Spain, and Czechoslovakia.",
+    "claim_type": "factual",
+    "subject": "She",
+    "predicate": "travelled",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "Belgium, Brazil, Spain, Czechoslovakia",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 47,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.089074+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "ec95b80982992ab7f8dffeb4cd9dc62cc0675e83a580f0ac5e04371b90fa254a",
+    "claim_text": ", 1925]]\n\nLed by Curie, the Institute produced four more Nobel Prize winners, including her daughter Irène Joliot-Curie and her son-in-law, Frédéric Joliot-Curie.",
+    "claim_type": "factual",
+    "subject": "the Institute",
+    "predicate": "produced",
+    "object": "four more Nobel Prize winners",
+    "qualifiers": {
+      "temporal": "1925",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 48,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.089203+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Zwoliński]"
+    ]
+  },
+  {
+    "assertion_id": "969ebea21ee912e91d57230af5d5d2cc42d72b699fd3631ec084151ee6b72656",
+    "claim_text": "In August 1922, Curie became a member of the League of Nations' newly created International Committee on Intellectual Cooperation.",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "became",
+    "object": "a member",
+    "qualifiers": {
+      "temporal": "August 1922",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Postwar years",
+    "source_position": 49,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.089304+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "c9438f772b15e9c05fc68e492d6f5f28cd4c75f2cc2e8e0a9004a95ab8b1eb16",
+    "claim_text": "]]\nCurie visited Poland for the last time in early 1934.",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "visited",
+    "object": "Poland",
+    "qualifiers": {
+      "temporal": "early 1934",
+      "spatial": "Poland",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Death",
+    "source_position": 50,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.113718+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "dfc03d3a02a46be03e417d8f47a99f0b9696bd8a737d95a6fe8a46cfd4d06df3",
+    "claim_text": "She had carried test tubes containing radioactive isotopes in her pocket, [REF:ShipmanWilsonTodd2012 and she stored them in her desk drawer, remarking on the faint light that the substances gave off in the dark.",
+    "claim_type": "factual",
+    "subject": "ShipmanWilsonTodd2012",
+    "predicate": "stored",
+    "object": "them",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Death",
+    "source_position": 51,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.113840+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "31fe9cff4dc5c29e3cd6368929e7b30ffe6ae9b33e08bd0471e596837c32a1e8",
+    "claim_text": "Curie was also exposed to X-rays from unshielded equipment while serving as a radiologist in field hospitals during the First World War.",
+    "claim_type": "factual",
+    "subject": "Curie",
+    "predicate": "exposed",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Death",
+    "source_position": 52,
+    "extraction_confidence": 0.6,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.113931+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "755a067cbf1a56b8e677f905a02cccac32d9d5a145baa5c0c69a7ea87b0d606d",
+    "claim_text": "When Curie's body was exhumed in 1995, the French Office de Protection contre les Rayonnements Ionisants (OPRI) \"concluded that she could not have been exposed to lethal levels of radium while she was alive\".",
+    "claim_type": "factual",
+    "subject": "Ionisants",
+    "predicate": "concluded",
+    "object": null,
+    "qualifiers": {
+      "temporal": "1995",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Death",
+    "source_position": 53,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.114058+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "1e7a2bedfe9370e4811bfbd4ce4f13b069d0d0397d2ce2ca8f73fbd771829609",
+    "claim_text": "They pointed out that radium poses a risk only if it is ingested, and speculated that her illness was more likely to have been due to her use of radiography during the First World War.",
+    "claim_type": "factual",
+    "subject": "They",
+    "predicate": "pointed",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": "if it is ingested, and speculated that her illness was more likely to have been due to her use of radiography during the"
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Death",
+    "source_position": 54,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.114158+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "5af5116a864d880db26362c1f92dc8f8fd0258cd23683875d2433135c32941b1",
+    "claim_text": "]]\n\nThe physical and societal aspects of the Curies' work contributed to shaping the world of the twentieth and twenty-first centuries.",
+    "claim_type": "interpretive",
+    "subject": "The physical and societal aspects",
+    "predicate": "contributed",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Legacy",
+    "source_position": 55,
+    "extraction_confidence": 0.8,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.139006+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "be475ad7c32d21e77f7683adf8499111f77e884e9428cadf7d81f1b4aca997a4",
+    "claim_text": "Curie's work laid the foundation for modern nuclear physics, cancer treatments, and radiography.",
+    "claim_type": "factual",
+    "subject": "Curie's work",
+    "predicate": "laid",
+    "object": "the foundation",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Legacy",
+    "source_position": 56,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.139075+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938d]"
+    ]
+  },
+  {
+    "assertion_id": "1be68c2501699b61e314bdafc6b8b8f230f2b65fa517ce7fd0129a6be8ba8c9c",
+    "claim_text": "Her techniques for isolating radioactive isotopes are still used in research and medicine.",
+    "claim_type": "factual",
+    "subject": "Her techniques",
+    "predicate": "used",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Legacy",
+    "source_position": 57,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.139133+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "a97f0dc0c9a389838083ea955b0a2da1f6f0c6b9a500ea3c11f3dc4ab486f836",
+    "claim_text": "Cornell University professor L. Pearce Williams observes:",
+    "claim_type": "factual",
+    "subject": "Cornell University professor L. Pearce Williams",
+    "predicate": "observes",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Legacy",
+    "source_position": 58,
+    "extraction_confidence": 0.8,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.139177+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "79e7e370413cae1331440a82914fe895bbb3020008ee2c14af620c7f75299c5b",
+    "claim_text": "In addition to helping to overturn established ideas in physics and chemistry, Curie's work has had a profound effect in the societal sphere.",
+    "claim_type": "factual",
+    "subject": "Curie's work",
+    "predicate": "had",
+    "object": "a profound effect",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Legacy",
+    "source_position": 59,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.139258+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "01d234a4971a680839fdd139ba3b7100de6b0b59c43b3113d2ed599218058b24",
+    "claim_text": "To attain her scientific achievements, she had to overcome barriers, in both her native and her adoptive country, that were placed in her way because she was a woman.",
+    "claim_type": "interpretive",
+    "subject": "she",
+    "predicate": "had",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Legacy",
+    "source_position": 60,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.139338+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "14d869e8d0c4dca9b2bb98a013b77945476b91704f38a0c017751b081a84fb20",
+    "claim_text": "She also mentored female scientists at the Radium Institute, helping pave the way for women in physics and chemistry.",
+    "claim_type": "factual",
+    "subject": "She",
+    "predicate": "mentored",
+    "object": "female scientists",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Legacy",
+    "source_position": 61,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.139405+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "642ea7007ca1a5697afaa6b199300192a5271e00b7d7782b121a22e98c5ca8ba",
+    "claim_text": ", Switzerland, 2015]]\n\nAs one of the most famous scientists in history, Marie Curie has become an icon in the scientific world and has received tributes from across the globe, even in the realm of pop culture.",
+    "claim_type": "factual",
+    "subject": ", Switzerland",
+    "predicate": "become",
+    "object": "an icon",
+    "qualifiers": {
+      "temporal": "2015",
+      "spatial": "Switzerland",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Commemorations",
+    "source_position": 62,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.164268+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "11b65d26d39b2ba2c551ca90c63c9131fb1f1bec897a7f442c874f47042810ad",
+    "claim_text": "She also received many honorary degrees from universities across the world.",
+    "claim_type": "factual",
+    "subject": "She",
+    "predicate": "received",
+    "object": "many honorary degrees",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Commemorations",
+    "source_position": 63,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.164344+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "a1d4f574ccd4307a65e0b7746cfb8ecc46cd9bc01c149454482e587c72ebf551",
+    "claim_text": "Marie Curie was the first woman to win a Nobel Prize, the first person to win two Nobel Prizes, the only woman to win in two fields, and the only person to win in multiple sciences.",
+    "claim_type": "factual",
+    "subject": "Marie Curie",
+    "predicate": "was",
+    "object": "the first woman",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Commemorations",
+    "source_position": 64,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.164459+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "d84625638613f3186bc63375ba9d1d2c014a3b7bde283b815dcac4b662a30c9d",
+    "claim_text": "Awards and honours that she received include:\n* Nobel Prize in Physics (1903, with her husband Pierre Curie and Henri Becquerel)",
+    "claim_type": "factual",
+    "subject": "Nobel",
+    "predicate": "include",
+    "object": "* Nobel Prize",
+    "qualifiers": {
+      "temporal": "1903",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Commemorations",
+    "source_position": 65,
+    "extraction_confidence": 0.85,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.164552+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Nobel]"
+    ]
+  },
+  {
+    "assertion_id": "bde27d7765ef1911930367bc1870539e113dd223f7a39b62d66cb31715db34e8",
+    "claim_text": "* Davy Medal (1903, with Pierre)",
+    "claim_type": "factual",
+    "subject": "REF",
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": "1903",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Commemorations",
+    "source_position": 66,
+    "extraction_confidence": 0.65,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.164616+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Estreicher1938b]"
+    ]
+  },
+  {
+    "assertion_id": "a387059b591c540625899da3a452fc82ef71e6cc0023f6e7a3bfde964f854b0a",
+    "claim_text": "* Matteucci Medal (1904, with Pierre)\n* Actonian Prize (1907)",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": "1904, 1907",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Commemorations",
+    "source_position": 67,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.164688+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": [
+      "[REF:Zwoliński]"
+    ]
+  },
+  {
+    "assertion_id": "554bbb14b7b664a4efa5b42304a83893ddeb281433b02977960bd477f5baa6a9",
+    "claim_text": "* Charlotte Hoffman Kellogg, who sponsored Marie Curie's visit to the US\n* Eusapia Palladino:",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "US",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "See also",
+    "source_position": 68,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.180637+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "63310976260e202d37554b874baa98d596bf328782043eaa583cc2da1210f858",
+    "claim_text": "Spiritualist medium whose Paris séances were attended by an intrigued Pierre Curie and a sceptical Marie Curie\n*",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "Paris",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "See also",
+    "source_position": 69,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.180713+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "c38cac1f2205990bb9778d717df03f4b34db751e2b08f6f55b4506696ef9d4e4",
+    "claim_text": "List of female Nobel laureates\n* List of female nominees for the Nobel Prize\n* List of Poles in Chemistry\n* List of Poles in Physics\n* List of Polish Nobel laureates\n* Skłodowski family\n* Timeline of women in science\n* Treatise on Radioactivity, by Marie Curie\n* Women in chemistry\n* Women in physics",
+    "claim_type": "factual",
+    "subject": "List",
+    "predicate": "laureates",
+    "object": "* Skłodowski family\n* Timeline",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "See also",
+    "source_position": 70,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.180866+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "f11db6dd799feff313a36722a64b0b7c648d6d56793636dbf61b36c3980048e6",
+    "claim_text": "* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* Sobel, Dava (2024).",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": "2024",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Further reading",
+    "source_position": 71,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.193339+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "47254bc214688c37cec24f449b6d56c91018461639190358efc91ff9eb70ae5c",
+    "claim_text": "The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science. . .",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Further reading",
+    "source_position": 72,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.193415+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "6b533d952d1d92085adb751ab0845899947c9796de56b5d4cbaab7fd8e340f00",
+    "claim_text": "A 2004 novel by Per Olov Enquist featuring Maria Skłodowska-Curie, neurologist Jean-Martin Charcot, and his Salpêtrière patient \"Blanche\" (Marie Wittman).",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": "2004",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Further reading",
+    "source_position": 73,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.193518+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "a052bbdaba2c2fbaa33c09d21889990ba5f2d7fd6d9605505b720af6c03337e7",
+    "claim_text": "The English translation was published in 2006.",
+    "claim_type": "factual",
+    "subject": "The English translation",
+    "predicate": "published",
+    "object": null,
+    "qualifiers": {
+      "temporal": "2006",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Further reading",
+    "source_position": 74,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.193570+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "f11db6dd799feff313a36722a64b0b7c648d6d56793636dbf61b36c3980048e6",
+    "claim_text": "* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* Sobel, Dava (2024).",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": "2024",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Nonfiction",
+    "source_position": 75,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.200969+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "47254bc214688c37cec24f449b6d56c91018461639190358efc91ff9eb70ae5c",
+    "claim_text": "The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science. . .",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Nonfiction",
+    "source_position": 76,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.201033+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "6b533d952d1d92085adb751ab0845899947c9796de56b5d4cbaab7fd8e340f00",
+    "claim_text": "* A 2004 novel by Per Olov Enquist featuring Maria Skłodowska-Curie, neurologist Jean-Martin Charcot, and his Salpêtrière patient \"Blanche\" (Marie Wittman).",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": "2004",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Fiction",
+    "source_position": 77,
+    "extraction_confidence": 0.45,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.207299+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "a052bbdaba2c2fbaa33c09d21889990ba5f2d7fd6d9605505b720af6c03337e7",
+    "claim_text": "The English translation was published in 2006.",
+    "claim_type": "factual",
+    "subject": "The English translation",
+    "predicate": "published",
+    "object": null,
+    "qualifiers": {
+      "temporal": "2006",
+      "spatial": null,
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "Fiction",
+    "source_position": 78,
+    "extraction_confidence": 0.7,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.207349+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "28f753bea88b503ff88faa5c9bad09639ded018e2c9d864d7e7ff9621e958b3c",
+    "claim_text": "* \n* \n* \n* \n* \n* \n\n \nCategory:1867 births\nCategory:1934 deaths\nCategory:19th-century French chemists\nCategory:19th-century French inventors\nCategory:19th-century French physicists\nCategory:19th-century women physicists\nCategory:19th-century French women scientists\nCategory:19th-century Polish chemists\nCategory:19th-century Polish inventors\nCategory:19th-century Polish physicists\nCategory:19th-century Polish women scientists\nCategory:20th-century French chemists\nCategory:20th-century French inventors\nCategory:20th-century French physicists\nCategory:20th-century French women scientists\nCategory:20th-century Polish chemists\nCategory:20th-century Polish inventors\nCategory:20th-century Polish physicists\nCategory:20th-century Polish women scientists\nCategory:Academic staff of the University of Paris\nCategory:Burials at the Panthéon, Paris\nCategory:Corresponding Members of the Russian Academy of Sciences (1917–1925",
+    "claim_type": "factual",
+    "subject": "women",
+    "predicate": "MISSING",
+    "object": "Category:19th-century French women scientists",
+    "qualifiers": {
+      "temporal": "century, century, century, century, century, Category:20th-century, Category:20th-century, Category:20th-century, Category:20th-century, Category:20th-century, Category:20th-century, Category:20th-century, Category:20th-century",
+      "spatial": "Panthéon, Paris",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "External links",
+    "source_position": 79,
+    "extraction_confidence": 0.6,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.267686+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "6836441c26e107df50cf18efe967f8eaf0f58d142900412a45a13bce384501f0",
+    "claim_text": ")\nCategory:Corresponding members of the Saint Petersburg Academy of Sciences\nCategory:Corresponding Members of the USSR Academy of Sciences\nMarie\nCategory:Deaths from anemia\nCategory:Discoverers of chemical elements\nCategory:Emigrants from Congress Poland to France\nCategory:Experimental physicists\nCategory:Flying University alumni\nCategory:Former Roman Catholics\nCategory:Naturalized citizens of France\nCategory:French agnostics\nCategory:French atheists\nCategory:French Nobel laureates\nCategory:French nuclear physicists\nCategory:French women chemists\nCategory:French women physicists\nCategory:Honorary members of the USSR Academy of Sciences\nCategory:Inventors killed by their own invention\nCategory:",
+    "claim_type": "factual",
+    "subject": "French women",
+    "predicate": "physicists",
+    "object": "Category",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "France, France",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "External links",
+    "source_position": 80,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.268029+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "8deca66b71a9d8f88c87c2bd3f404fcff98dfa6f912bd28af464c42f70d0c3d5",
+    "claim_text": "Legion of Honour refusals\nCategory:Members of the Lwów Scientific Society\nCategory:Nobel laureates in Chemistry\nCategory:Nobel laureates in Physics\nCategory:Nobel laureates with multiple Nobel awards\nCategory:Nuclear chemists\nCategory:People from Warsaw Governorate\nCategory:Polish agnostics\nCategory:Polish atheists\nCategory:Polish governesses\nCategory:Polish Nobel laureates\nCategory:Polish nuclear physicists\nCategory:",
+    "claim_type": "factual",
+    "subject": "Nobel",
+    "predicate": "laureates",
+    "object": "Nuclear chemists\nCategory",
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "Warsaw",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "External links",
+    "source_position": 81,
+    "extraction_confidence": 0.75,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.268254+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  },
+  {
+    "assertion_id": "569b1b6041c559efb8b1860e19569001cd1d8edd42ac9dba471bb567025bbd5c",
+    "claim_text": "Recipients of the Matteucci Medal\nCategory:Scientists from Warsaw\nCategory:University of Paris alumni\nCategory:Deaths by acute radiation syndrome\nCategory:19th-century women inventors\nCategory:Women Nobel laureates\nCategory:Women nuclear physicists\nCategory:Scientists from Congress Poland\nCategory:Women's firsts\nMaria Salomea\nCategory:20th-century women inventors\nCategory:International members of the American Philosophical Society\nCategory:20th-century women physicists",
+    "claim_type": "factual",
+    "subject": null,
+    "predicate": "MISSING",
+    "object": null,
+    "qualifiers": {
+      "temporal": null,
+      "spatial": "Warsaw",
+      "conditional": null
+    },
+    "source_article": "Marie Curie",
+    "source_section": "External links",
+    "source_position": 82,
+    "extraction_confidence": 0.35,
+    "extraction_model": "spacy:en_core_web_sm",
+    "extracted_at": "2026-03-01T17:16:18.268495+00:00",
+    "wikipedia_revision_id": "1340419177",
+    "citations_in_source": []
+  }
+]

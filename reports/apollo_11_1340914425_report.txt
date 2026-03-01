@@ -1,0 +1,271 @@
+========================================================================
+ASSERTION REPORT
+Article    : Apollo 11
+Revision   : 1340914425
+Generated  : 2026-03-01 17:39 UTC
+========================================================================
+
+------------------------------------------------------------------------
+ARTICLE SUMMARY
+------------------------------------------------------------------------
+
+Total assertions extracted   : 284
+Sections analysed            : 35
+Average extraction confidence: 0.76
+
+Confidence breakdown:
+  High     (>= 80%)  :  149 claims  (52.5%)
+  Moderate (65% - 80%) :  117 claims  (41.2%)
+  Low      (<  65%)  :   18 claims  ( 6.3%)
+
+Claim type breakdown:
+  Factual       :  263 claims  (92.6%)
+  Interpretive  :   13 claims  ( 4.6%)
+  Statistical   :    8 claims  ( 2.8%)
+
+[!] 68 claims flagged for structural issues — see Low Confidence section.
+
+------------------------------------------------------------------------
+CORE FACTS
+------------------------------------------------------------------------
+
+Factual claims with extraction confidence >= 75%.
+These are the most clearly written factual statements in the article.
+
+  [conf: 0.85]  Nearly a month later, on May 5, 1961, Alan Shepard became the first American in space; his 15-minut…
+  [conf: 0.85]  A crewed mission to the Moon would serve this purpose.
+  [conf: 0.85]  On May 25, 1961, Kennedy addressed the United States Congress on "Urgent National Needs" and declar…
+  [conf: 0.85]  Due to design and manufacturing delays in the LM, Apollo&nbsp;8 and Apollo&nbsp;9 swapped prime and…
+  [conf: 0.85]  Apollo 11 was the second American mission where all the crew members had prior spaceflight experien…
+  [conf: 0.85]  The next was STS-26 in 1988.
+  [conf: 0.85]  Armstrong had no issues working with Aldrin but thought it over for a day before declining.
+  [conf: 0.85]  The Apollo 11 prime crew had none of the close cheerful camaraderie characterized by that of Apollo…
+  [conf: 0.85]  Instead, they forged an amiable working relationship.
+  [conf: 0.85]  Armstrong in particular was notoriously aloof, but Collins, who considered himself a loner, confess…
+  [conf: 0.85]  Aldrin and Collins described the crew as "amiable strangers".
+  [conf: 0.85]  During Projects Mercury and Gemini, each mission had a prime and a backup crew.
+  [conf: 0.85]  For Apollo, NASA added a third group, the support crew.
+  [conf: 0.85]  The support crew for Apollo 11 was Mattingly, Ronald Evans, and Bill Pogue.
+  [conf: 0.85]  For Apollo 11, the CAPCOMs were backup and support crew members Anders, Evans, Haise, Lovell, and M…
+  ... and 164 more in the JSON file.
+
+------------------------------------------------------------------------
+LOW CONFIDENCE / DOUBTFUL CLAIMS
+------------------------------------------------------------------------
+
+Assertions flagged for structural issues during extraction.
+NOTE: these flags reflect how the text was parsed — not whether the claim is true.
+Reliability scoring (epistemic stability) is implemented in a later step.
+
+   1. [FACTUAL     conf: 0.55]
+      ""If they can send a man to the Moon, why can't they&nbsp;...?" became a common saying fol…"
+      Section : Legacy
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject not identified — passive voice or pronoun reference in original text
+
+   2. [FACTUAL     conf: 0.55]
+      ""If they can send a man to the Moon, why can't they&nbsp;...?" became a common saying fol…"
+      Section : Cultural significance
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject not identified — passive voice or pronoun reference in original text
+
+   3. [FACTUAL     conf: 0.60]
+      "Armstrong was concerned that "eleven" would not be understood by non-English speakers, so…"
+      Section : Preparations
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject is a pronoun or demonstrative (it, they, this, that...) — meaning depends on surrounding sentences to identify the referent
+
+   4. [FACTUAL     conf: 0.60]
+      "Armstrong was concerned that "eleven" would not be understood by non-English speakers, so…"
+      Section : Insignia
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject is a pronoun or demonstrative (it, they, this, that...) — meaning depends on surrounding sentences to identify the referent
+
+   5. [FACTUAL     conf: 0.60]
+      "Margaret Hamilton, the Director of Apollo Flight Computer Programming at the MIT Charles …"
+      Section : Lunar descent
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject not identified — passive voice or pronoun reference in original text
+
+   6. [INTERPRETI  conf: 0.60]
+      "Armstrong was supposed to immediately shut the engine down, as the engineers suspected th…"
+      Section : Landing
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Interpretive judgment — no cited source was found in the surrounding text
+
+   7. [INTERPRETI  conf: 0.60]
+      "That evening, a state dinner was held in Los Angeles at the Century Plaza Hotel to commem…"
+      Section : Celebrations
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Interpretive judgment — no cited source was found in the surrounding text
+
+   8. [FACTUAL     conf: 0.60]
+      "They are handled only indirectly, using special tools."
+      Section : Moon rocks
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject is a pronoun or demonstrative (it, they, this, that...) — meaning depends on surrounding sentences to identify the referent
+
+   9. [INTERPRETI  conf: 0.65]
+      "Because the Soviet Union had launch vehicles with higher lift capacity, President John F.…"
+      Section : Background
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Interpretive judgment — no cited source was found in the surrounding text
+
+  10. [FACTUAL     conf: 0.65]
+      "There would be one change."
+      Section : Personnel
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject not identified — passive voice or pronoun reference in original text
+
+  11. [FACTUAL     conf: 0.65]
+      "There would be one change."
+      Section : Prime crew
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject not identified — passive voice or pronoun reference in original text
+
+  12. [FACTUAL     conf: 0.65]
+      "There were several differences between Eagle and Apollo 10's LM-4"
+      Section : Pre-launch
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject not identified — passive voice or pronoun reference in original text
+
+  13. [FACTUAL     conf: 0.65]
+      "When Armstrong again looked outside, he saw that the computer's landing system was target…"
+      Section : Landing
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject is a pronoun or demonstrative (it, they, this, that...) — meaning depends on surrounding sentences to identify the referent
+
+  14. [FACTUAL     conf: 0.65]
+      "newspaper stating The Eagle Has Landed' – Two Men Walk on the Moon"]]
+Humans walking on t…"
+      Section : Legacy
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : The action or relationship in this sentence was not identified by the parser
+
+  15. [FACTUAL     conf: 0.65]
+      "newspaper stating The Eagle Has Landed' – Two Men Walk on the Moon"]]
+Humans walking on t…"
+      Section : Cultural significance
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : The action or relationship in this sentence was not identified by the parser
+
+  16. [FACTUAL     conf: 0.65]
+      "For safekeeping, there is also a smaller collection stored at White Sands Test Facility n…"
+      Section : Moon rocks
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+      Flag    : Subject not identified — passive voice or pronoun reference in original text
+
+  17. [FACTUAL     conf: 0.50]
+      "Ken Mattingly was moved from the support crew into parallel training with Anders as backu…"
+      Section : Personnel
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+
+  18. [FACTUAL     conf: 0.50]
+      "Ken Mattingly was moved from the support crew into parallel training with Anders as backu…"
+      Section : Backup crew
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+
+  19. [FACTUAL     conf: 0.50]
+      "One of the mission flags carried aboard the flight—the Flag of American Samoa—was later d…"
+      Section : Celebrations
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+
+  20. [FACTUAL     conf: 0.60]
+      ", the very high resolution image was produced in 2007 by the Smithsonian Institution.]]
+A…"
+      Section : Call signs
+      Flag    : Complex sentence — the subject/predicate/object breakdown may be imprecise
+
+  ... and 48 more flagged claims in the JSON file.
+
+------------------------------------------------------------------------
+SECTION RELIABILITY
+------------------------------------------------------------------------
+
+Each section of the article, with extraction quality indicators.
+
+  Section                           Claims  Avg Conf  Flagged  Level   
+  --------------------------------  ------  --------  -------  --------
+  Background                            10      0.77        1  MODERATE
+  Personnel                             36      0.78        6  MODERATE
+  Prime crew                            19      0.79        3  MODERATE
+  Backup crew                            7      0.71        2  MODERATE
+  Support crew                           5      0.80        1  HIGH    
+  Capsule communicators                  3      0.80        -  MODERATE
+  Flight directors                       1      0.80        -  HIGH    
+  Other key personnel                    1      0.85        -  HIGH    
+  Preparations                          12      0.75        3  MODERATE
+  Insignia                              12      0.75        3  MODERATE
+  Call signs                             6      0.72        3  LOW     
+  Mementos                               1      0.85        -  HIGH    
+  Site selection                        14      0.76        3  MODERATE
+  First-step decision                   18      0.76        5  MODERATE
+  Pre-launch                             4      0.71        2  LOW     
+  Mission                                8      0.82        -  HIGH    
+  Launch and flight to lunar orbit       8      0.82        -  HIGH    
+  Lunar descent                         12      0.77        3  MODERATE
+  Landing                               25      0.78        6  MODERATE
+  Lunar surface operations              10      0.78        3  MODERATE
+  Lunar ascent                           4      0.78        1  MODERATE
+  <i>Columbia</i> in lunar orbit        15      0.73        6  LOW     
+  Return                                 4      0.73        1  MODERATE
+  Splashdown and quarantine              6      0.72        2  MODERATE
+  Celebrations                          17      0.76        3  MODERATE
+  Legacy                                 5      0.71        2  LOW     
+  Cultural significance                  5      0.71        2  LOW     
+  Spacecraft                             1      0.60        1  LOW     
+  Moon rocks                             5      0.71        3  LOW     
+  Experiment results                     3      0.78        -  MODERATE
+  Moonwalk camera                        1      0.70        1  LOW     
+  Lunar Module <i>Eagle</i> memor…       2      0.80        -  HIGH    
+  Anniversary events                     1      0.65        1  LOW     
+  40th anniversary                       1      0.65        1  LOW     
+  50th anniversary                       2      0.80        -  HIGH    
+
+------------------------------------------------------------------------
+CREATOR SAFE STARTING POINTS
+------------------------------------------------------------------------
+
+High-confidence factual assertions (>= 80%) with a clearly identified subject.
+These are the safest claims to use as a starting point for your content research.
+
+  * Nearly a month later, on May 5, 1961, Alan Shepard became the first American in space; his 15-minut…
+    [conf: 0.85  section: Background]
+
+  * A crewed mission to the Moon would serve this purpose.
+    [conf: 0.85  section: Background]
+
+  * On May 25, 1961, Kennedy addressed the United States Congress on "Urgent National Needs" and declar…
+    [conf: 0.85  section: Background]
+
+  * Due to design and manufacturing delays in the LM, Apollo&nbsp;8 and Apollo&nbsp;9 swapped prime and…
+    [conf: 0.85  section: Personnel]
+
+  * Apollo 11 was the second American mission where all the crew members had prior spaceflight experien…
+    [conf: 0.85  section: Personnel]
+
+  * The next was STS-26 in 1988.
+    [conf: 0.85  section: Personnel]
+
+  * Armstrong had no issues working with Aldrin but thought it over for a day before declining.
+    [conf: 0.85  section: Personnel]
+
+  * The Apollo 11 prime crew had none of the close cheerful camaraderie characterized by that of Apollo…
+    [conf: 0.85  section: Personnel]
+
+  * Armstrong in particular was notoriously aloof, but Collins, who considered himself a loner, confess…
+    [conf: 0.85  section: Personnel]
+
+  * Aldrin and Collins described the crew as "amiable strangers".
+    [conf: 0.85  section: Personnel]
+
+........................................................................
+IMPORTANT:
+High extraction confidence means the sentence was clearly structured in the
+source text — not that the claim has been independently verified. These are
+starting points for your research, not verified facts. Always cross-check
+before publishing.
+
+========================================================================
+END OF REPORT
+========================================================================

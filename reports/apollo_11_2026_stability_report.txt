@@ -1,0 +1,411 @@
+========================================================================
+EPISTEMIC STABILITY REPORT
+Article   : Apollo 11
+Revisions : 2022–2026  (4 annual editorial reviews)
+Generated : 2026-03-01 19:45 UTC
+========================================================================
+
+------------------------------------------------------------------------
+ARTICLE SUMMARY
+------------------------------------------------------------------------
+
+Stability analysis covers Apollo 11 from 2022 to 2026,
+based on 4 rounds of annual editorial review.
+
+                              Claims   % of Total   Notes
+  Almost Certain                 191       86.0%   safe to use
+  Uncertain                        1        0.5%   check before using
+  Doubtful                        30       13.5%   needs verification
+  ····························································
+  Total claims analysed          222
+
+Claim types:
+  Factual          203   (91%)
+  Interpretive      11   (5%)
+  Statistical        8   (4%)
+
+Almost Certain means a claim was present and consistent across all 4 annual
+editorial reviews. It does not mean the claim has been independently verified.
+
+------------------------------------------------------------------------
+CREATOR SAFE STARTING POINTS
+------------------------------------------------------------------------
+
+These 25 factual claims have been consistently present through all 4 annual
+editorial reviews. Each includes its Wikipedia source so you can trace and attribute
+the information.
+
+Use these as starting points for your research — not as finished statements to publish
+without further verification.
+········································································
+
+  1. In the late 1950s and early 1960s, the United States was engaged
+      in the Cold War, a geopolitical rivalry with the Soviet
+      Union.
+     Section : Background
+     Source  : (none cited in article)
+
+  2. A crewed mission to the Moon would serve this purpose.
+     Section : Background
+     Source  : (none cited in article)
+
+  3. On May 25, 1961, Kennedy addressed the United States Congress on
+      "Urgent National Needs" and declared:
+     Section : Background
+     Source  : (none cited in article)
+
+  4. The initial crew assignment of Commander Neil Armstrong, Command
+      Module Pilot (CMP) Jim Lovell, and Lunar Module Pilot (LMP)
+      Buzz Aldrin on the backup crew for Apollo 9 was officially
+      announced on November 20, 1967.
+     Section : Personnel
+     Source  : (none cited in article)
+
+  5. Lovell and Aldrin had previously flown together as the crew of
+      Gemini 12.
+     Section : Personnel
+     Source  : (none cited in article)
+
+  6. Due to design and manufacturing delays in the LM, Apollo 8 and
+      Apollo 9 swapped prime and backup crews, and Armstrong's
+      crew became the backup for Apollo 8.
+     Section : Personnel
+     Source  : (none cited in article)
+
+  7. Based on the normal crew rotation scheme, Armstrong was then
+      expected to command Apollo 11.
+     Section : Personnel
+     Source  : (none cited in article)
+
+  8. Michael Collins, the CMP on the Apollo 8 crew, began experiencing
+      trouble with his legs.
+     Section : Personnel
+     Source  : (none cited in article)
+
+  9. Lovell took his place on the Apollo 8 crew, and when Collins
+      recovered he joined Armstrong's crew as CMP.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 10. In the meantime, Fred Haise filled in as backup LMP, and Aldrin as
+      backup CMP for Apollo 8.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 11. Apollo 11 was the second American mission where all the crew
+      members had prior spaceflight experience, the first being
+      Apollo 10.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 12. The next was STS-26 in 1988.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 13. Deke Slayton gave Armstrong the option to replace Aldrin with
+      Lovell, since some thought Aldrin was difficult to work
+      with.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 14. Armstrong had no issues working with Aldrin but thought it over
+      for a day before declining.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 15. The Apollo 11 prime crew had none of the close cheerful
+      camaraderie characterized by that of Apollo 12.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 16. Armstrong in particular was notoriously aloof, but Collins, who
+      considered himself a loner, confessed to rebuffing Aldrin's
+      attempts to create a more personal relationship.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 17. Aldrin and Collins described the crew as "amiable strangers".
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 18. Armstrong did not agree with the assessment, and said "all the
+      crews I was on worked very well together.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 19. "  The backup crew consisted of Lovell as Commander, William
+      Anders as CMP, and Haise as LMP.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 20. Anders had flown with Lovell on Apollo 8.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 21. Ken Mattingly was moved from the support crew into parallel
+      training with Anders as backup CMP in case Apollo 11 was
+      delayed past its intended July launch date, at which point
+      Anders would be unavailable.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 22. During Projects Mercury and Gemini, each mission had a prime and a
+      backup crew.
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 23. The flight directors for this mission were:
+     Section : Personnel
+     Source  : (none cited in article)
+
+ 24. Other key personnel who played important roles in the Apollo 11
+      mission include the following.
+     Section : Personnel
+     Sources : "Day 4, part 4: Checking Out Eagle." Apollo Flight Journal, 2019.
+              "Day 3, part 1: Viewing Africa and Breakfast." Apollo Flight Jour…
+
+ 25. The Apollo 11 mission emblem was designed by Collins, who wanted a
+      symbol for "peaceful lunar landing by the United States".
+     Section : Preparations
+     Source  : (none cited in article)
+
+  ... and 123 more Almost Certain factual claims
+  in the full JSON output.
+
+········································································
+IMPORTANT: These claims reflect editorial consensus on Wikipedia — not
+independent fact-checking. Always cross-check before publishing.
+
+------------------------------------------------------------------------
+INVESTIGATE THESE
+------------------------------------------------------------------------
+
+The claims below need extra scrutiny before you use them.
+Doubtful claims were added recently with no editorial track record.
+Uncertain claims were present in earlier versions but were reworded.
+
+········································································
+DOUBTFUL — Added recently, no editorial track record (30 claims)
+········································································
+
+  First added in 2025 — seen in 1 of 4 reviews:
+
+  * "Its success demonstrated that the USSR could potentially deliver
+     nuclear weapons over intercontinental distances, challenging
+     American claims of military, economic, and technological
+     superiority."
+    Section      : Background
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "This incident sparked the Sputnik crisis and ignited the Space
+     Race, as both superpowers sought to demonstrate superiority
+     in spaceflight."
+    Section      : Background
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "The Soviets took the lead on April 12, 1961, when cosmonaut Yuri
+     Gagarin became the first person in space and the first to
+     orbit the Earth."
+    Section      : Background
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "Nearly a month later, on May 5, 1961, Alan Shepard became the
+     first American in space; his 15-minute flight was suborbital,
+     not a full orbit."
+    Section      : Background
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "Because the Soviet Union had launch vehicles with higher lift
+     capacity, President John F. Kennedy, Eisenhower's successor,
+     chose a challenge that exceeded the capabilities of the
+     existing generation of rockets, so that both countries would
+     be starting from an equal position."
+    Section      : Background
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "However, because Alan Shepard had only recently returned to
+     flight status and needed additional training, NASA reassigned
+     his crew to Apollo 14 and moved Lovell's crew up to fly
+     Apollo 13 instead."
+    Section      : Personnel
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "Shortly before launch, Mattingly was replaced by Jack Swigert due
+     to concerns over possible measles exposure."
+    Section      : Personnel
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "For Apollo, NASA added a third group, the support crew."
+    Section      : Personnel
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "Their job was to maintain the flight plan, checklists, and
+     mission rules, and to keep the prime and backup crews updated
+     on any changes."
+    Section      : Personnel
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "They also developed procedures—especially for emergencies, so
+     that by the time the prime and backup crews entered the
+     simulators, they could focus on practicing and mastering
+     them."
+    Section      : Personnel
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "This practice ensured that messages came from someone best able
+     to understand the situation in the spacecraft and to relay
+     guidance from flight controllers as clearly as possible."
+    Section      : Personnel
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "For Apollo 11, the CAPCOMs were backup and support crew members
+     Anders, Evans, Haise, Lovell, and Mattingly, along with
+     Charles Duke, Owen Garriott, Don L. Lind, Bruce McCandless
+     II, and Harrison Schmitt."
+    Section      : Personnel
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "The remote-control unit on his chest kept him from seeing his
+     feet."
+    Section      : Lunar surface operations
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "Following their return to Earth, the Apollo 11 crew received
+     widespread international acclaim."
+    Section      : Celebrations
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  * "On August 13, 1969, astronauts Neil Armstrong, Buzz Aldrin, and
+     Michael Collins were honored with ticker-tape parades in New
+     York City and Chicago, with an estimated six million people
+     lining the streets."
+    Section      : Celebrations
+    Reviews seen : 1 of 4
+    First seen   : 2025
+
+  ... and 15 more Doubtful claims in the JSON output.
+
+········································································
+UNCERTAIN — Present in earlier versions but changed by editors (1 claim)
+········································································
+
+  * "The Hasselblad camera used during the moonwalk was thought to be
+     lost or left on the Moon's surface."
+    Section      : Moonwalk camera
+    Reviews seen : 2 of 4
+    Modified     : 1 time  (minor wording change)
+    First seen   : 2024
+
+------------------------------------------------------------------------
+SECTION RELIABILITY
+------------------------------------------------------------------------
+
+Stability distribution for each section of the article.
+High Doubtful % means the section was recently expanded and not yet
+fully reviewed by Wikipedia's editorial community.
+
+  Section                       Claims  Almost Certain  Uncertain  Doubtful  Rating
+  ----------------------------  ------  --------------  ---------  --------  ------
+  Background                        10             50%         0%       50%  Mixed
+  Personnel                         36             81%         0%       19%  Strong
+  Preparations                      12            100%         0%        0%  Strong
+  Call signs                         6            100%         0%        0%  Strong
+  Mementos                           1            100%         0%        0%  Strong
+  Site selection                    14            100%         0%        0%  Strong
+  First-step decision               18            100%         0%        0%  Strong
+  Pre-launch                         4            100%         0%        0%  Strong
+  Mission                            8            100%         0%        0%  Strong
+  Lunar descent                     12            100%         0%        0%  Strong
+  Landing                           25            100%         0%        0%  Strong
+  Lunar surface operations          10             90%         0%       10%  Strong
+  Lunar ascent                       4            100%         0%        0%  Strong
+  Columbia in lunar orbit           15            100%         0%        0%  Strong
+  Return                             4            100%         0%        0%  Strong
+  Splashdown and quarantine          6            100%         0%        0%  Strong
+  Legacy                             5            100%         0%        0%  Strong
+  Spacecraft                         1            100%         0%        0%  Strong
+  Moon rocks                         5            100%         0%        0%  Strong
+  Experiment results                 3            100%         0%        0%  Strong
+  Lunar Module Eagle memorabi…       2            100%         0%        0%  Strong
+  Anniversary events                 1            100%         0%        0%  Strong
+  50th anniversary                   2            100%         0%        0%  Strong
+  Moonwalk camera                    1              0%       100%        0%  Weak
+  Celebrations                      17              0%         0%      100%  Weak
+
+  Rating:  Strong = Almost Certain >= 80%
+           Mixed  = Almost Certain >= 50%
+           Weak   = Almost Certain <  50%
+
+------------------------------------------------------------------------
+CITATION GAPS
+------------------------------------------------------------------------
+
+Claims below have no source cited in the article, cite a source
+that could not be resolved, or are interpretive judgments without
+supporting references. Verify these independently.
+
+········································································
+INTERPRETIVE CLAIMS WITHOUT A SOURCE (10 claims)
+········································································
+  These are judgments or opinions stated without a cited
+  reference in the article. They may reflect editorial
+  consensus but should be treated with extra caution.
+
+  - "Tom Wilson, a simulator instructor, suggested an olive branch in
+     its beak to represent their peaceful mission."
+    Section : Preparations
+
+  - "Aldrin heard that Armstrong would be the first because Armstrong
+     was a civilian, which made Aldrin livid."
+    Section : First-step decision
+
+  - "Because the astronauts had their spacesuits on and the spacecraft
+     was so small, maneuvering to exit the spacecraft was …"
+    Section : First-step decision
+
+  - "in lunar orbit, photographed from Eagle|alt=The top of the
+     silvery command module is seen over a grey, cratered lunar
+     s…"
+    Section : Lunar descent
+
+  - "Armstrong was supposed to immediately shut the engine down, as
+     the engineers suspected the pressure caused by the engin…"
+    Section : Landing
+
+  - "Five sites were considered: Sites 1 and 2 were in the Sea of
+     Tranquility (Mare Tranquillitatis); Site 3 was in the Cent…"
+    Section : Site selection
+
+  - "The Hasselblad camera used during the moonwalk was thought to be
+     lost or left on the Moon's surface."
+    Section : Moonwalk camera
+
+  - "Because the Soviet Union had launch vehicles with higher lift
+     capacity, President John F. Kennedy, Eisenhower's success…"
+    Section : Background
+
+  - "However, because Alan Shepard had only recently returned to
+     flight status and needed additional training, NASA reassign…"
+    Section : Personnel
+
+  - "That evening, a state dinner was held in Los Angeles at the
+     Century Plaza Hotel to commemorate the historic achievement."
+    Section : Celebrations
+
+========================================================================
+END OF REPORT
+========================================================================

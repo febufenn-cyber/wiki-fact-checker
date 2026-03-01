@@ -1,0 +1,66 @@
+{
+  "article_title": "Apollo 11",
+  "article_slug": "apollo_11",
+  "sampling_strategy": "annual_last_revision",
+  "years_covered": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "total_revisions": 5,
+  "fetched_at": "2026-03-01T17:50:51.848397+00:00",
+  "revisions": [
+    {
+      "revid": 1130551454,
+      "year": 2022,
+      "timestamp": "2022-12-30T19:10:08Z",
+      "user": "GKFX",
+      "comment": "Swap {{nbsp}} for &nbsp; - works better with the VisualEditor",
+      "size_bytes": 184400,
+      "content_file": "1130551454_content.json",
+      "n_sections": 35
+    },
+    {
+      "revid": 1191771826,
+      "year": 2023,
+      "timestamp": "2023-12-25T18:07:43Z",
+      "user": "Skim127",
+      "comment": "/* Celebrations */ Added places visited on the world tour.",
+      "size_bytes": 187232,
+      "content_file": "1191771826_content.json",
+      "n_sections": 35
+    },
+    {
+      "revid": 1264107237,
+      "year": 2024,
+      "timestamp": "2024-12-20T14:11:58Z",
+      "user": "Canterbury Tail",
+      "comment": "rv good faith, already linked in opening paragraph. [[WP:OVERLINK]]",
+      "size_bytes": 191280,
+      "content_file": "1264107237_content.json",
+      "n_sections": 35
+    },
+    {
+      "revid": 1330269637,
+      "year": 2025,
+      "timestamp": "2025-12-30T11:57:07Z",
+      "user": "InternetArchiveBot",
+      "comment": "Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.9.5) ([[User:Whoop whoop pull up|Whoop whoop pull up]] - 27740",
+      "size_bytes": 193419,
+      "content_file": "1330269637_content.json",
+      "n_sections": 36
+    },
+    {
+      "revid": 1340914425,
+      "year": 2026,
+      "timestamp": "2026-02-28T12:28:37Z",
+      "user": "Figaro",
+      "comment": "/* Other key personnel */ gave a link for geotechnical engineer for Milton E Harr who designed the foot pads for the Apo",
+      "size_bytes": 189204,
+      "content_file": "1340914425_content.json",
+      "n_sections": 35
+    }
+  ]
+}
